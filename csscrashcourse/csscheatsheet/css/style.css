@@ -1,0 +1,118 @@
+body {
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.6em;
+	margin: 0;
+}
+.clr {
+	clear: both;
+}
+.box1 {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+}
+.container {
+	width: 80%;
+	margin: auto;
+}
+.box2 {
+	border: 3px dotted #ccc;
+	padding: 20px;
+	margin: 20px 0;
+}
+.categories {
+	border: 1px #ccc solid;
+	padding: 10px;
+	border-radius: 15px;
+}
+.categories h2 {
+	text-align: center;
+}
+.categories ul {
+	padding: 0;
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: green;
+}
+
+.categories li {
+	padding-bottom: 6px;
+}
+
+.myForm {
+	padding: 20px;
+}
+.myForm .formGroup {
+	padding-bottom: 15px;
+}
+.myForm label {
+	display: block;
+}
+.myForm input [type="text"] {
+	padding: 8px;
+	width: 100%;
+}
+.button {
+	background-color: #333;
+	color: #fff;
+	padding: 10px 15px;
+}
+.block {
+	float: left;
+	width: 33.3%;
+	border: 1px solid black;
+	padding: 10px;
+	box-sizing: border-box;
+}
+#mainBlock {
+	float: left;
+	width: 70%;
+	padding: 15px;
+	box-sizing: border-box;
+}
+#sidebar {
+	float: right;
+	width: 30%;
+	background-color: #333;
+	color: #fff;
+	padding: 15px;
+	box-sizing: border-box;
+}
+.pBox {
+	width: 800px;
+	height: 500px;
+	border: 1px solid black;
+	margin-top: 30px;
+	background-position: 40%;
+	background-image: url(../images/abstract-neon-lights.webp);
+}
+.pBox h1,
+.pBox h2 {
+	top: 40px;
+	position: static;
+	right: 100px;
+}
+.myList li:nth-child(even) {
+	background: grey;
+}
+.myList li:first-child {
+	background: red;
+}
+.myList li:last-child {
+	background: blue;
+}
+.myList li:nth-child(5) {
+	background: purple;
+}
