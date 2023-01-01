@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BestandDemo()
+comment0.text=\nErzeuge\ einen\ Bestandsverwalter\ und\ f\u00FCttere\ ihn\ mit\nein\ paar\ Beispielartikeln.\n\n
+comment1.target=void\ demo()
+comment1.text=\nEine\ sehr\ einfache\ Demonstration,\ wie\ ein\ Bestandsverwalter\nbenutzt\ werden\ k\u00F6nnte.\ Informationen\ zu\ allen\ Artikeln\ werden\nangezeigt,\ die\ Bestandsmenge\ eines\ Artikels\ wird\ aufgestockt\nund\ anschlie\u00DFend\ werden\ erneut\ alle\ Artikel\ angezeigt.\n\n
+comment2.params=nummer
+comment2.target=void\ zeigeDetails(int)
+comment2.text=\nZeige\ Details\ eines\ bestimmten\ Artikels.\nWenn\ vorhanden,\ werden\ Name\ und\ Bestandsmenge\nangezeigt.\n@param\ nummer\ Die\ Nummer\ des\ zu\ suchenden\ Artikels.\n\n
+comment3.params=nummer
+comment3.target=void\ verkaufeArtikel(int)
+comment3.text=\nVerkaufe\ ein\ Exemplar\ eines\ bestimmten\ Artikels.\nZeige\ den\ Status\ des\ Artikels\ vor\ und\ nach\ dem\ \nVerkauf.\n@param\ nummer\ Die\ Nummer\ des\ verkauften\ Artikels.\n\n
+comment4.params=nummer
+comment4.target=Artikel\ gibArtikel(int)
+comment4.text=\nHole\ den\ Artikel\ mit\ der\ angegebenen\ Nummer\ vom\ \nVerwalter.\nEine\ Fehlermeldung\ wird\ ausgegeben,\ wenn\ kein\nArtikel\ mit\ dieser\ Nummer\ existiert.\n@param\ nummer\ Die\ Nummer\ des\ Artikels.\n@return\ den\ Artikel\ oder\ null,\ wenn\ nicht\ gefunden\ wird.\n\n
+comment5.target=Bestandsverwalter\ gibVerwalter()
+comment5.text=\n@return\ den\ Bestandsverwalter.\n\n
+numComments=6

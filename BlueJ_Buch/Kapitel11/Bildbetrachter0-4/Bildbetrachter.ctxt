@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bildbetrachter()
+comment0.text=\nErzeuge\ einen\ Bildbetrachter\ und\ zeige\ seine\ GUI\ auf\ndem\ Bildschirm\ an.\n\n
+comment1.target=void\ dateiOeffnen()
+comment1.text=\n'Datei\ oeffnen'-Funktion\:\ \u00D6ffnet\ einen\ Dateiauswahldialog\ zur\ \nAuswahl\ einer\ Bilddatei\ und\ zeigt\ das\ selektierte\ Bild\ an.\n\n
+comment2.target=void\ beenden()
+comment2.text=\n'Beenden'-Funktion\:\ Beendet\ die\ Anwendung.\n\n
+comment3.target=void\ fensterErzeugen()
+comment3.text=\nErzeuge\ das\ Swing-Fenster\ samt\ Inhalt.\n\n
+comment4.params=fenster
+comment4.target=void\ menuezeileErzeugen(JFrame)
+comment4.text=\nDie\ Men\u00FCzeile\ des\ Hauptfensters\ erzeugen.\n@param\ fenster\ Das\ Fenster,\ in\ das\ die\ Men\u00FCzeile\ eingef\u00FCgt\ werden\ soll.\n\n
+numComments=5

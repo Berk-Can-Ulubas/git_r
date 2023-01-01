@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=bilddatei
+comment0.target=Farbbild\ ladeBild(File)
+comment0.text=\nLies\ eine\ Bilddatei\ ein\ und\ liefere\ sie\ als\ ein\ Bild\ zur\u00FCck.\nDiese\ Methode\ kann\ Dateien\ im\ JPG-\ und\ im\ PNG-Format\ lesen.\nBei\ Problemen\ (etwa,\ wenn\ die\ Datei\ nicht\ existiert\ oder\ ein\ nicht\nlesbares\ Format\ hat\ oder\ es\ einen\ sonstigen\ Lesefehler\ gibt)\nliefert\ diese\ Methode\ null.\n\n@param\ bilddatei\ \ Die\ zu\ ladende\ Bilddatei.\n@return\ \ \ \ \ \ \ \ \ \ \ Das\ Bild-Objekt\ oder\ null,\ falls\ die\ Datei\ nicht\nlesbar\ ist.\n\n
+comment1.params=bild\ datei
+comment1.target=void\ speichereBild(Farbbild,\ File)
+comment1.text=\nSchreibe\ das\ gegebene\ Bild\ in\ eine\ Bilddatei\ im\ JPG-Format.\nBei\ etwaigen\ Problemen\ beendet\ sich\ diese\ Methode\ stillschweigend.\n\n@param\ bild\ \ Das\ zu\ speichernde\ Bild.\n@param\ datei\ Die\ Datei,\ in\ die\ gespeichert\ werden\ soll.\n\n
+numComments=2

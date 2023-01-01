@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Farbbild\ gibBild()
+comment0.text=\n\u00D6ffne\ einen\ Dateiauswahldialog\ und\ lasse\ den\ Benutzer\ eine\ Bilddatei\naus\ dem\ Dateisystem\ ausw\u00E4hlen.\ Lade\ dann\ dieses\ Bild\ und\ liefere\ es\ als\nein\ Farbbild\ zur\u00FCck.\ Diese\ Methode\ kann\ JPG-\ und\ PNG-Formate\ lesen.\nBei\ einem\ Problem\ (Datei\ existiert\ nicht,\ hat\ das\ falsche\ Format\ oder\nes\ gibt\ einen\ anderen\ Lesefehler)\ liefert\ diese\ Methode\ null.\n\n@return\ \ \ \ \ \ \ Das\ Bild-Objekt\ oder\ null,\ falls\ keine\ g\u00FCltige\ Bilddatei\ selektiert\ wurde.\n\n
+comment1.params=bilddatei
+comment1.target=Farbbild\ ladeBild(File)
+comment1.text=\nLies\ eine\ Bilddatei\ ein\ und\ liefere\ sie\ als\ ein\ Bild\ zur\u00FCck.\nDiese\ Methode\ kann\ Dateien\ im\ JPG-\ und\ im\ PNG-Format\ lesen.\nBei\ Problemen\ (etwa,\ wenn\ die\ Datei\ nicht\ existiert\ oder\ ein\ nicht\nlesbares\ Format\ hat\ oder\ es\ einen\ sonstigen\ Lesefehler\ gibt)\nliefert\ diese\ Methode\ null.\n\n@param\ bilddatei\ \ Die\ zu\ ladende\ Bilddatei.\n@return\ \ \ \ \ \ \ \ \ \ \ Das\ Bild-Objekt\ oder\ null,\ falls\ die\ Datei\ nicht\nlesbar\ ist.\n\n
+comment2.params=bild\ datei
+comment2.target=void\ speichereBild(Farbbild,\ File)
+comment2.text=\nSchreibe\ das\ gegebene\ Bild\ in\ eine\ Bilddatei\ im\ JPG-Format.\nBei\ etwaigen\ Problemen\ beendet\ sich\ diese\ Methode\ stillschweigend.\n\n@param\ bild\ \ Das\ zu\ speichernde\ Bild.\n@param\ datei\ Die\ Datei,\ in\ die\ gespeichert\ werden\ soll.\n\n
+numComments=3

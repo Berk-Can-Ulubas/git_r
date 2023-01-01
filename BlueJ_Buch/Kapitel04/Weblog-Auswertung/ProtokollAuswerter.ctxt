@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProtokollAuswerter()
+comment0.text=\nErzeuge\ ein\ Exemplar,\ das\ die\ Zugriffe\ in\ den\nStunden\ eines\ Tages\ z\u00E4hlt.\n\n
+comment1.target=void\ analysiereStundendaten()
+comment1.text=\nAnalysiere\ die\ in\ der\ Logdatei\ erfassten\ Zugriffsdaten.\n\n
+comment2.target=void\ stundendatenAusgeben()
+comment2.text=\nGib\ die\ Anzahl\ der\ Zugriffe\ in\ den\ Stunden\ eines\nTages\ nach\ Stunden\ sortiert\ auf\ der\ Konsole\ aus.\nDiese\ Werte\ sollten\ zuerst\ mit\ einem\ Aufruf\ von\ \n'analysiereStundendaten'\ berechnet\ werden.\n\n
+comment3.target=void\ logdateiAusgeben()
+comment3.text=\nGib\ die\ Zeilen\ der\ Logdatei\ auf\ der\ Konsole\ aus.\n\n
+numComments=4

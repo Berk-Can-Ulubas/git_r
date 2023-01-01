@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=name\ telefon\ adresse
+comment0.target=Kontakt(String,\ String,\ String)
+comment0.text=\nLege\ Kontaktdaten\ an.\ Bei\ allen\ Angaben\ werden\ umgebende\nLeerzeichen\ entfernt.\ Entweder\ der\ Name\ oder\ die\ Telefonnummer\ndarf\ nicht\ leer\ sein.\n@param\ name\ der\ Name.\n@param\ telefon\ die\ Telefonnummer.\n@param\ adresse\ die\ Adresse.\n\n
+comment1.target=String\ gibName()
+comment1.text=\n@return\ den\ Namen.\n\n
+comment2.target=String\ gibTelefon()
+comment2.text=\n@return\ die\ Telefonnummer.\n\n
+comment3.target=String\ gibAdresse()
+comment3.text=\n@return\ die\ Adresse.\n\n
+comment4.params=jenes
+comment4.target=boolean\ equals(Object)
+comment4.text=\nTeste\ dieses\ und\ jenes\ Objekt\ auf\ Datengleichheit.\n@param\ jenes\ Das\ Objekt,\ das\ mit\ diesem\ verglichen\nwerden\ soll.\n@return\ true\ wenn\ das\ Parameterobjekt\ ein\ Kontakt\ ist\nund\ sich\ die\ Datenfelder\ paarweise\ gleichen.\n\n
+comment5.target=String\ toString()
+comment5.text=\n@return\ einen\ mehrzeiligen\ String\ mit\ Name,\ Telefon\ und\ Adresse.\n\n
+comment6.params=jenerKontakt
+comment6.target=int\ compareTo(Kontakt)
+comment6.text=\nVergleiche\ diesen\ Kontakt\ mit\ einem\ anderen,\ damit\nsortiert\ werden\ kann.\ Kontakte\ werden\ nach\ Name,\nTelefonnummer\ und\ Adresse\ sortiert.\n@param\ jenerKontakt\ der\ Kontakt,\ mit\ dem\ verglichen\ werden\ soll.\n@return\ einen\ negativen\ Wert,\ wenn\ dieser\ Kontakt\ vor\ dem\ Parameter\nliegt,\ Null,\ wenn\ sie\ gleich\ sind,\ und\ einen\ positiven\ Wert,\nwenn\ dieser\ Kontakt\ nach\ dem\ Parameter\ folgt.\n\n
+comment7.target=int\ hashCode()
+comment7.text=\nBerechne\ einen\ Hashcode\ nach\ den\ Regeln\ des\ Buches\n"Effektiv\ Java\ programmieren"\ von\ Joshua\ Bloch.\n@return\ einen\ Hashcode\ f\u00FCr\ diesen\ Kontakt.\n\n
+numComments=8

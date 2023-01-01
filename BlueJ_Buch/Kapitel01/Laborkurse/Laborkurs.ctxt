@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=maximaleTeilnehmerzahl
+comment0.target=Laborkurs(int)
+comment0.text=\nErzeuge\ einen\ Laborkurs\ mit\ einer\ Teilnehmerbegrenzung.\ Alle\ \nanderen\ Details\ werden\ mit\ Standardwerten\ vorbelegt.\n\n
+comment1.params=neuerStudent
+comment1.target=void\ trageStudentEin(Student)
+comment1.text=\nTrage\ einen\ Studenten\ in\ diesen\ Kurs\ ein.\n\n
+comment2.target=int\ anzahlStudenten()
+comment2.text=\nLiefere\ die\ Anzahl\ der\ in\ diesen\ Kurs\ momentan\ eingetragenen\ Studenten.\n\n
+comment3.params=raumnummer
+comment3.target=void\ setzeRaum(String)
+comment3.text=\nSetze\ den\ Raum\ f\u00FCr\ diesen\ Kurs.\n\n
+comment4.params=tagUndZeit
+comment4.target=void\ setzeTermin(String)
+comment4.text=\nSetze\ Wochentag\ und\ Anfangszeit\ f\u00FCr\ diesen\ Kurs.\ Der\ Parameter\nsollte\ das\ Format\ "montags,\ 16\ Uhr"\ haben.\n\n
+comment5.params=dozentenname
+comment5.target=void\ setzeDozent(String)
+comment5.text=\nSetze\ den\ Namen\ des\ Dozenten\ f\u00FCr\ diesen\ Laborkurs.\n\n
+comment6.target=void\ listeAusgeben()
+comment6.text=\nGib\ eine\ Liste\ der\ Teilnehmer\ zusammen\ mit\ den\ weiteren\ Details\ndieses\ Kurses\ auf\ die\ Konsole\ aus.\n\n
+numComments=7

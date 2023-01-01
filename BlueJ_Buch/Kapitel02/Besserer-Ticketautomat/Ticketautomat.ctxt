@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=ticketpreis
+comment0.target=Ticketautomat(int)
+comment0.text=\nErzeuge\ einen\ Automaten,\ der\ Tickets\ zum\ angegebenen\ Preis\n(in\ Cent)\ ausgibt.\n\n
+comment1.target=int\ gibPreis()
+comment1.text=\nLiefere\ den\ Preis\ eines\ Tickets\ dieses\ Automaten\ (in\ Cent).\n\n
+comment2.target=int\ gibBisherGezahltenBetrag()
+comment2.text=\nLiefere\ die\ H\u00F6he\ des\ Betrags,\ der\ f\u00FCr\ das\ n\u00E4chste\ Ticket\ bereits\neingeworfen\ wurde.\n\n
+comment3.params=betrag
+comment3.target=void\ geldEinwerfen(int)
+comment3.text=\nNimm\ den\ angegebenen\ Betrag\ (in\ Cent)\ als\ Anzahlung\ f\u00FCr\ das\ \nn\u00E4chste\ Ticket.\ Pr\u00FCfe,\ ob\ der\ Betrag\ sinnvoll\ ist.\n\n
+comment4.target=void\ ticketDrucken()
+comment4.text=\nDrucke\ ein\ Ticket,\ wenn\ gen\u00FCgend\ Geld\ eingeworfen\ wurde,\ und\ \nziehe\ den\ Ticketpreis\ vom\ bisher\ gezahlten\ Betrag\ ab.\ Gib\ eine\ \nFehlermeldung\ aus,\ falls\ noch\ Geld\ f\u00FCr\ ein\ Ticket\ fehlt.\n\n
+comment5.target=int\ wechselgeldAuszahlen()
+comment5.text=\nGib\ das\ Wechselgeld\ bzw.\ den\ bisher\ gezahlten\ Betrag\ zur\u00FCck.\n\n
+numComments=6

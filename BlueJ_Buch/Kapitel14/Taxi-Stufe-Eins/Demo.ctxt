@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Demo()
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Demo\n\n
+comment1.target=void\ starten()
+comment1.text=\nStarte\ eine\ Demo\ mit\ einer\ festen\ Anzahl\ an\ Schritten.\n\n
+comment2.target=void\ schritt()
+comment2.text=\nSetze\ die\ Demo\ um\ einen\ Schritt\ fort,\ indem\nalle\ Akteure\ zum\ Agieren\ aufgefordert\ werden.\n\n
+comment3.target=void\ zuruecksetzen()
+comment3.text=\nSetze\ die\ Demo\ an\ den\ Anfangspunkt\ zur\u00FCck.\nEs\ wird\ ein\ einzelnes\ Taxi\ erzeugt\ und\ die\nAbholung\ eines\ einzelnen\ Fahrgastes\ wird\ erbeten.\n@throws\ IllegalStateException\ Wenn\ kein\ Taxi\ frei\ ist.\n\n
+numComments=4

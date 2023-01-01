@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=tagesnummer
+comment0.target=Tag(int)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Tag.\n@param\ tagesnummer\ die\ Nummer\ des\ Tages\ innerhalb\ndes\ Jahres\ (1-366).\n\n
+comment1.params=verabredung
+comment1.target=int\ findePlatz(Verabredung)
+comment1.text=\nVersuche,\ die\ gegebene\ Verabredung\ in\ diesem\ Tag\ unterzubringen.\n@param\ verabredung\ die\ Verabredung,\ die\ untergebracht\ werden\ soll.\n@return\ den\ fr\u00FChesten\ Zeitpunkt,\ an\ dem\ diese\ Verabredung\nstatfinden\ kann.\ Liefere\ -1,\ falls\ f\u00FCr\ die\ Verabredung\nkein\ Platz\ mehr\ ist.\n\n
+comment2.params=zeitpunkt\ verabredung
+comment2.target=boolean\ vereinbareTermin(int,\ Verabredung)
+comment2.text=\nVereinbare\ einen\ Termin.\n@param\ zeitpunkt\ die\ Stunde,\ zu\ der\ die\ Verabredung\ beginnt.\n@param\ Verabredung\ die\ Verabredung,\ die\ eingetragen\ werden\ soll.\n@return\ true\ wenn\ der\ Termin\ vereinbart\ werden\ konnte,\nfalse\ sonst.\n\n
+comment3.params=zeit
+comment3.target=Verabredung\ gibVerabredung(int)
+comment3.text=\n@param\ zeit\ Zeitpunkt\ eines\ Tages.\ Muss\ im\ Bereich\ von\nTAGESBEGINN\ bis\ LETZTER_PLANBARER_TERMIN\ liegen.\n@return\ Die\ Verabredung\ zum\ gegebenen\ Zeitpunkt.\ Es\ wird\nnull\ geliefert,\ wenn\ zeit\ entweder\ ung\u00FCltig\nist\ oder\ zu\ dem\ Zeitpunkt\ keine\ Verabredung\neingetragen\ ist.\n\n
+comment4.target=void\ termineAusgeben()
+comment4.text=\nGib\ eine\ Liste\ aller\ Termine\ auf\ der\ Konsole\ aus.\n\n
+comment5.target=int\ gibTagesnummer()
+comment5.text=\n@return\ Die\ Nummer\ dieses\ Tages\ innerhalb\ des\ Jahres\ (1\ -\ 366).\n\n
+comment6.params=zeit
+comment6.target=boolean\ gueltigeZeit(int)
+comment6.text=\n@return\ true,\ falls\ zeit\ im\ Bereich\ von\ TAGESBEGINN\ bis\ \nLETZTER_PLANBARER_TERMIN\ liegt,\ false\ sonst.\n\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=derTitel\ laenge
+comment0.target=Medium(String,\ int)
+comment0.text=\nInitialisiere\ die\ Datenfelder\ dieses\ Mediums.\n@param\ derTitel\ der\ Titel\ dieses\ Mediums.\n@param\ laenge\ die\ Spielzeit\ dieses\ Mediums.\n\n
+comment1.params=kommentar
+comment1.target=void\ setzeKommentar(String)
+comment1.text=\nTrage\ einen\ Kommentar\ f\u00FCr\ dieses\ Medium\ ein.\n@param\ kommentar\ der\ einzutragende\ Kommentar.\n\n
+comment2.target=String\ gibKommentar()
+comment2.text=\n@return\ den\ Kommentar\ f\u00FCr\ dieses\ Medium.\n\n
+comment3.params=vorhanden
+comment3.target=void\ setzeVorhanden(boolean)
+comment3.text=\nSetze,\ ob\ wir\ dieses\ Medium\ in\ unserer\ Sammlung\ haben.\n@param\ vorhanden\ true,\ wenn\ wir\ das\ Medium\ haben,\ false\ sonst.\n\n
+comment4.target=boolean\ gibVorhanden()
+comment4.text=\n@return\ true,\ wenn\ wir\ dieses\ Medium\ in\ unserer\ Sammlung\ haben,\nfalse\ sonst.\n\n
+comment5.target=void\ ausgeben()
+comment5.text=\nGib\ Details\ \u00FCber\ dieses\ Medium\ auf\ der\ Konsole\ aus.\n\n
+numComments=6

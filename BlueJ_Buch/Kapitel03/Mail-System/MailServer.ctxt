@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MailServer()
+comment0.text=\nErzeuge\ einen\ MailServer.\n\n
+comment1.params=benutzer
+comment1.target=int\ anzahlNachrichtenFuer(String)
+comment1.text=\nLiefere\ die\ Anzahl\ der\ Nachrichten\ f\u00FCr\ den\ angegebenen\ Benutzer.\n@param\ benutzer\ Benutzer,\ dessen\ Nachrichtenanzahl\ geliefert\nwerden\ soll.\n@return\ die\ Anzahl\ der\ Nachrichten\ f\u00FCr\ 'benutzer'.\n\n
+comment2.params=benutzer
+comment2.target=Nachricht\ gibNaechsteNachrichtF\u00FCr(String)
+comment2.text=\nLiefere\ die\ n\u00E4chste\ Nachricht\ f\u00FCr\ den\ angegebenen\ Benutzer.\nLiefere\ null,\ falls\ keine\ Nachrichten\ vorhanden\ sind.\n@param\ benutzer\ Benutzer,\ f\u00FCr\ den\ die\ Nachricht\ geliefert\nwerden\ soll.\n@return\ die\ n\u00E4chste\ Nachricht,\ falls\ vorhanden,\ null\ sonst.\n\n
+comment3.params=nachricht
+comment3.target=void\ leiteWeiter(Nachricht)
+comment3.text=\nLeite\ die\ angegebene\ Nachricht\ auf\ Anfrage\ weiter.\n@param\ nachricht\ die\ Nachricht,\ die\ auf\ dem\ Server\ hinterlegt\nwerden\ soll\n\n
+numComments=4

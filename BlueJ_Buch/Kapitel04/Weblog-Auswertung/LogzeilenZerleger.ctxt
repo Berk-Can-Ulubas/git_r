@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LogzeilenZerleger()
+comment0.text=\nErzeuge\ einen\ Zerleger\ f\u00FCr\ Logzeilen.\n\n
+comment1.params=logzeile\ zeilendaten
+comment1.target=void\ zerlege(String,\ int[])
+comment1.text=\nZerlege\ eine\ Logzeile.\ Lege\ die\ Nummern\ der\ Zeile\nin\ einem\ Array\ ab.\ Die\ Anzahl\ der\ Token\ \nmuss\ ausreichen,\ um\ das\ Array\ zu\ bef\u00FCllen.\n\n@param\ logzeile\ die\ Zeile,\ die\ zerlegt\ werden\ soll\n@param\ zeilendaten\ das\ Array,\ in\ dem\ die\ Werte\ngespeichert\ werden\ sollen\n\n
+numComments=2

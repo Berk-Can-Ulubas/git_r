@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Befehlswoerter()
+comment0.text=\nKonstruktor\ f\u00FCr\ Befehlswoerter\n\n
+comment1.params=einString
+comment1.target=boolean\ istBefehl(String)
+comment1.text=\nPr\u00FCfe,\ ob\ der\ gegebene\ String\ ein\ g\u00FCltiges\ Befehlswort\ ist.\n@param\ einString\ der\ zu\ pr\u00FCfende\ String.\n@return\ true,\ wenn\ er\ g\u00FCltig\ ist,\ false\ sonst.\n\n
+comment2.target=void\ alleAusgeben()
+comment2.text=\nGib\ alle\ g\u00FCltigen\ Befehle\ auf\ System.out\ aus.\n\n
+numComments=3

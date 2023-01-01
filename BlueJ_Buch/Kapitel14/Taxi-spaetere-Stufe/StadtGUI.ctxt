@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=stadt
+comment0.target=StadtGUI(Stadt)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ StadtGUI\n@param\ stadt\ die\ Stadt,\ deren\ Zustand\ angezeigt\ werden\ soll.\n\n
+comment1.target=void\ agiere()
+comment1.text=\nDie\ GUI\ f\u00FCr\ eine\ Stadt\ agiert,\ indem\ sie\ den\ aktuellen\nZustand\ der\ Stadt\ anzeigt.\n\n
+numComments=2

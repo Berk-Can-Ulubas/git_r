@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=buch
+comment0.target=AdressbuchDateiverwalter(Adressbuch)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ AdressbuchDateiverwalter.\n@param\ buch\ das\ Adressbuch,\ das\ benutzt\ werden\ soll.\n\n
+comment1.params=praefix
+comment1.target=void\ speichereSuchergebnisse(String)
+comment1.text=\nSpeichere\ die\ Ergebnisse\ einer\ Suche\ im\ Adressbuch\nin\ der\ Datei\ 'Ergebnisse.txt'\ im\ Projektordner.\n@param\ praefix\ Der\ Schl\u00FCssel-Pr\u00E4fix,\ mit\ dem\ gesucht\nwerden\ soll.\n\n
+comment2.target=void\ zeigeSuchergebnisse()
+comment2.text=\nZeige\ die\ Ergebnisse\ des\ letzten\ Aufrufs\ von\nspeichereSuchergebnisse.\ Da\ die\ Ausgabe\ auf\ der\nKonsole\ erfolgt,\ werden\ alle\ Probleme\ von\ dieser\nMethode\ unmittelbar\ gemeldet.\n\n
+comment3.params=dateiname
+comment3.target=void\ neueKontakteAusDatei(String)
+comment3.text=\nF\u00FCge\ weitere\ Kontakte\ aus\ einer\ Textdatei\ dem\ Adressbuch\nhinzu.\ Die\ Datei\ sollte\ ein\ Element\ pro\ Zeile\ enthalten,\nplus\ eine\ Leerzeile\ zwischen\ den\ Kontakten\:\nName\ \\n\ Telefon\ \\n\ Adresse\ \\n\ \\n\nEine\ Zeile\ kann\ leer\ sein,\ wenn\ die\ entsprechende\nInformation\ fehlt.\n@param\ dateiname\ der\ Name\ der\ Textdatei\ mit\ den\ Daten.\n@throws\ IOException\ Bei\ einem\ Fehler\ beim\ Einlesen.\n\n
+comment4.params=dateiname
+comment4.target=Adressbuch\ liesAusDatei(String)
+comment4.text=\nLies\ die\ Bin\u00E4rversion\ eines\ Adressbuchs\ aus\ der\ gegebenen\nDatei.\ Wenn\ der\ Dateiname\ kein\ absoluter\ Pfad\ ist,\ dann\nwird\ der\ Name\ als\ relativ\ zum\ Projektordner\ angesehen.\n@param\ dateiname\ der\ Name\ der\ Datei,\ aus\ der\ zu\ lesen\ ist.\n@return\ das\ Adressbuch-Objekt.\n@throws\ IOException\ Wenn\ das\ Einlesen\ fehlschl\u00E4gt.\n\n
+comment5.params=dateiname
+comment5.target=void\ speichereInDatei(String)
+comment5.text=\nSpeichere\ eine\ Bin\u00E4rversion\ des\ Adressbuchs\ in\ndie\ Datei\ mit\ dem\ gegebenen\ Namen.\ Wenn\ der\ Dateiname\nnicht\ absolut\ ist,\ wird\ er\ als\ relativ\ zum\ aktuellen\nProjektordner\ angenommen.\ \n@param\ dateiname\ der\ Name\ der\ Datei,\ in\ der\ gespeichert\nwerden\ soll.\n@throws\ IOException\ Falls\ das\ Speichern\ aus\ irgendeinem\nGrund\ fehlschl\u00E4gt.\n\n
+comment6.params=dateiname
+comment6.target=File\ erzeugeAbsolutenDateinamen(String)
+comment6.text=\nErzeuge\ aus\ dem\ gegebenen\ Dateinamen\ einen\ absoluten\nDateinamen.\ Wenn\ der\ Dateiname\ bereits\ absolut\ ist,\nwird\ er\ unver\u00E4ndert\ gelassen,\ ansonsten\ wird\ der\ Name\nrelativ\ zum\ aktuellen\ Projektordner\ erzeugt.\n@throws\ IOException\ wenn\ kein\ g\u00FCltiger\ Dateiname\ erstellbar\ ist.\n\n
+comment7.target=File\ gibProjektordner()
+comment7.text=\nVersuche\ den\ Namen\ des\ aktuellen\ Projektordners\ zu\nermitteln.\ Dazu\ wird\ der\ Pfad\ der\ .class-Datei\ dieser\nKlasse\ ermittelt\ und\ daraus\ der\ Name\ des\ Ordners\nextrahiert,\ der\ diese\ Datei\ enth\u00E4lt.\n@throws\ URISyntaxException\ Wenn\ die\ URL\ nicht\ korrekt\ formatiert\ ist.\n@return\ den\ aktuellen\ Projektordner.\n\n
+numComments=8

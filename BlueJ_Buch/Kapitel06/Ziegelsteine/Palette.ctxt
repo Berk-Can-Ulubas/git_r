@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=ziegelProSchicht\ hoehe
+comment0.target=Palette(int,\ int)
+comment0.text=\nErzeuge\ eine\ Palette\ mit\ einer\ gegebenen\ Anzahl\ Ziegelsteinen.\n@param\ ziegelProSchicht\ die\ Anzahl\ der\ Ziegel,\ die\ auf\ die\nGrundfl\u00E4che\ passen.\n@param\ hoehe\ die\ Anzahl\ der\ Schichten.\n\n
+comment1.target=double\ gibGewicht()
+comment1.text=\n@return\ die\ Grundfl\u00E4che\ dieser\ Palette\ (in\ kg)\n\n
+comment2.target=double\ gibHoehe()
+comment2.text=\n@return\ die\ H\u00F6he\ dieses\ Stapels\ (in\ cm)\n\n
+numComments=3

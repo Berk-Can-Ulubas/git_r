@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AdressbuchDemo()
+comment0.text=\nErstellen\ der\ Testdaten.\n\n
+comment1.target=void\ einrichten()
+comment1.text=\nEinrichten\ eines\ neues\ Adressbuches\ mit\ Beispieldaten.\n\n
+comment2.target=void\ testEinfuegen()
+comment2.text=\nEin\ einfacher\ Test\ von\ neuerKontakt\ um\ zu\ pr\u00FCfen,\ ob\neine\ Zusicherung\ fehlschl\u00E4gt.\n\n
+comment3.target=void\ testEntfernen()
+comment3.text=\nEin\ einfacher\ Test\ von\ entferneKontakt\ um\ zu\ pr\u00FCfen,\nob\ eine\ Zusicherung\ fehlschl\u00E4gt.\n\n
+comment4.target=void\ testAendern()
+comment4.text=\nEin\ einfacher\ Test\ von\ aendereKontakt\ um\ zu\ pr\u00FCfen,\nob\ eine\ Zusicherung\ fehlschl\u00E4gt.\n\n
+comment5.target=void\ testFehlerEinfuegen()
+comment5.text=\nF\u00FCge\ zum\ zweiten\ Mail\ einen\ Eintrag\ mit\ bereits\ vorhandenem\nNamen\ und\ vorhandener\ Telefonnummer\ ein.\nDies\ sollte\ einen\ AssertionError\ ausl\u00F6sen.\n\n
+comment6.target=Adressbuch\ gibAdressbuch()
+comment6.text=\n@return\ das\ Beispieladressbuch.\n\n
+comment7.target=Kontakt\ gibVorhandenenKontakt()
+comment7.text=\n@return\ einen\ Kontakt,\ der\ bereits\ im\ Adressbuch\neingetragen\ ist.\n\n
+comment8.target=Kontakt\ gibWeiterenKontakt()
+comment8.text=\n@return\ einen\ neuen\ Kontakt,\ der\ urspr\u00FCnglich\ nicht\nim\ Adressbuch\ eingetragen\ ist.\n\n
+comment9.target=Kontakt\ erzeugeAbgewandeltenKontakt()
+comment9.text=\nErzeuge\ einen\ Kontakt\ auf\ Basis\ eines\ existierenden\ Eintrags.\n\n
+numComments=10

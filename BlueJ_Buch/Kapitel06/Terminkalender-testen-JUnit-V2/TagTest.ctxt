@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TagTest()
+comment0.text=\nKonstruktor\ fuer\ die\ Test-Klasse\ TagTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSetzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\nWird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nGibt\ das\ Testger\u00FCst\ wieder\ frei.\n\nWird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment3.target=void\ testDreiTermineVereinbaren()
+comment3.text=\nTeste\ grundlegende\ Funktionalit\u00E4t,\ indem\ Termine\nan\ beiden\ Enden\ eines\ Tages\ und\ in\ der\ Mitte\nvereinbart\ werden.\n\n
+comment4.target=void\ testDoppelbelegung()
+comment4.text=\n\u00DCberpr\u00FCfe,\ dass\ Doppelbelegungen\ nicht\ zul\u00E4ssig\ sind.\n\n
+numComments=5

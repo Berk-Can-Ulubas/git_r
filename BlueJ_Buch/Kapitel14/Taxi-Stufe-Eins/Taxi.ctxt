@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=unternehmen\ position
+comment0.target=Taxi(Taxiunternehmen,\ Position)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Taxi.\n@param\ unternehmen\ das\ Taxi-Unternehmen.\ Darf\ nicht\ null\ sein.\n@param\ position\ die\ Startposition\ des\ Fahrzeugs.\nDarf\ nicht\ null\ sein.\n@throws\ NullPointerException\ Wenn\ unternehmen\ oder\ \nposition\ null\ sind.\n\n
+comment1.target=void\ agiere()
+comment1.text=\nF\u00FChre\ die\ Aktionen\ eines\ Taxis\ aus.\n\n
+comment2.target=boolean\ istFrei()
+comment2.text=\n@return\ ob\ dieses\ Taxi\ frei\ ist.\n\n
+comment3.params=position
+comment3.target=void\ setzeAbholpunkt(Position)
+comment3.text=\nSetze\ einen\ Abholpunkt.\ Dieser\ wird\ zur\nZielposition.\n@param\ position\ der\ Abholpunkt.\n\n
+comment4.params=fahrgast
+comment4.target=void\ aufnehmen(Fahrgast)
+comment4.text=\nNimm\ einen\ Fahrgast\ auf.\nSetze\ sein\ Ziel\ als\ die\ Zielposition.\n@param\ fahrgast\ der\ Fahrgast.\n\n
+comment5.target=void\ fahrgastAbsetzen()
+comment5.text=\nSetze\ den\ Fahrgast\ ab.\n\n
+comment6.target=String\ toString()
+comment6.text=\nLiefere\ Details\ \u00FCber\ ein\ Taxi,\ etwa\ seine\ Position.\n@return\ Eine\ String-Darstellung\ dieses\ Taxis.\n\n
+numComments=7

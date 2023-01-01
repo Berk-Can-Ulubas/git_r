@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Rechner()
+comment0.text=\nErzeuge\ einen\ neuen\ Rechner\ und\ zeige\ ihn\ an.\n\n
+comment1.target=void\ anzeigen()
+comment1.text=\nErneut\ anzeigen,\ falls\ das\ Fenster\ geschlossen\ wurde.\n\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=derTitel\ derRegisseur\ laenge
+comment0.target=DVD(String,\ String,\ int)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ DVD\n@param\ derTitel\ Der\ Titel\ dieser\ DVD.\n@param\ derRegisseur\ Der\ Regisseur\ dieser\ DVD.\n@param\ laenge\ Die\ Spielzeit\ des\ Hauptfilms.\n\n
+comment1.target=String\ gibRegisseur()
+comment1.text=\nLiefere\ den\ Regisseur\ dieser\ DVD.\n\n
+numComments=2

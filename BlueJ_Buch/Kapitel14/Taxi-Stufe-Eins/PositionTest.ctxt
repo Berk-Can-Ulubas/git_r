@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PositionTest()
+comment0.text=\nKonstruktor\ fuer\ die\ Test-Klasse\ PositionTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSetzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\nWird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nGibt\ das\ Testger\u00FCst\ wieder\ frei.\n\nWird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment3.target=void\ testSchritteZu()
+comment3.text=\nTest\ der\ Methode\ schritteZu\ der\ Klasse\ Position.\n\n
+comment4.target=void\ testeAngrenzendePositionen()
+comment4.text=\nTests\ der\ Methode\ naechstePosition\ der\ Klasse\ Position.\n\n
+comment5.target=void\ testeNichtAngrenzendePositionen()
+numComments=6

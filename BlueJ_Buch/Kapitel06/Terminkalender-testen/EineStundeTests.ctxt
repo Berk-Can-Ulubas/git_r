@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EineStundeTests()
+comment0.text=\nKonstruktor\ f\u00FCr\ EineStundeTests.\n\n
+comment1.target=void\ dreiTermineVereinbaren()
+comment1.text=\nPr\u00FCfe\ Basisfunktionalit\u00E4t,\ indem\ Termine\ am\ Tagesanfang,\nam\ Tagesende\ und\ in\ der\ Mitte\ vereinbart\ werden.\n\n
+comment2.target=void\ testeTerminueberschneidung()
+comment2.text=\nPr\u00FCfe,\ dass\ ein\ Termin\ nicht\ doppelt\ belegt\ werden\ kann.\n\n
+comment3.target=void\ verplaneKomplettenTag()
+comment3.text=\nPr\u00FCfe\ Basisfunktionalit\u00E4t,\ indem\ ein\ Tag\nkomplett\ mit\ Terminen\ bef\u00FCllt\ wird.\n\n
+numComments=4

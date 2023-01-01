@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Befehlswoerter()
+comment0.text=\nKonstruktor\ -\ initialisiere\ die\ Befehlsw\u00F6rter.\n\n
+comment1.params=eingabe
+comment1.target=boolean\ istBefehl(String)
+comment1.text=\nPr\u00FCfe,\ ob\ eine\ gegebene\ Zeichenkette\ ein\ g\u00FCltiger\nBefehl\ ist.\n@return\ 'true',\ wenn\ die\ gegebene\ Zeichenkette\ ein\ g\u00FCltiger\nBefehl\ ist,\ 'false'\ sonst.\n\n
+comment2.target=void\ alleAusgeben()
+comment2.text=\nGib\ alle\ g\u00FCltigen\ Befehlsw\u00F6rter\ auf\ die\ Konsole\ aus.\n\n
+numComments=3

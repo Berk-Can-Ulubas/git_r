@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=nummer\ name
+comment0.target=Artikel(int,\ String)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Artikel.\nDer\ Anfangsbestand\ ist\ Null.\n@param\ nummer\ Die\ Artikelnummer\ des\ Artikels.\n@param\ name\ Der\ Name\ des\ Artikels.\n\n
+comment1.target=int\ gibNummer()
+comment1.text=\n@return\ die\ Artikelnummer.\n\n
+comment2.target=String\ gibName()
+comment2.text=\n@return\ den\ Artikelnamen.\n\n
+comment3.target=int\ gibBestand()
+comment3.text=\n@return\ den\ Bestand\ im\ Lager.\n\n
+comment4.target=String\ toString()
+comment4.text=\n@return\ die\ Nummer,\ den\ Namen\ und\ den\ Lagerbestand\ als\ String.\n\n
+comment5.params=anzahl
+comment5.target=void\ erhoeheBestand(int)
+comment5.text=\nErh\u00F6he\ den\ Lagerbestand\ dieses\ Artikels\ um\ den\ \nangegebenen\ Wert.\n@param\ anzahl\ Die\ Anzahl\ der\ zus\u00E4tzlichen\ Artikel.\nDieser\ Wert\ muss\ gr\u00F6\u00DFer\ als\ Null\ sein.\n\n
+comment6.target=void\ verkaufeEinen()
+comment6.text=\nVerkaufe\ einen\ dieser\ Artikel.\nEin\ Fehler\ wird\ gemeldet,\ wenn\ der\ Artikel\ nicht\ auf\nLager\ ist.\n\n
+numComments=7

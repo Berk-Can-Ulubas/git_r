@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GridLayoutBeispiel()
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ GridLayoutBeispiel\n\n
+comment1.target=void\ fensterErzeugen()
+comment1.text=\nErzeuge\ ein\ 3x2-Gitter\ and\ f\u00FCge\ f\u00FCnf\ Komponenten\ ein.\n\n
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=wochennummer
+comment0.target=Woche(int)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Woche.\n@param\ weekNumber\ The\ week\ number\ (0-52).\n\n
+comment1.target=void\ termineAusgeben()
+comment1.text=\nGib\ eine\ Liste\ der\ Termine\ dieser\ Woche\ auf\ der\ Konsole\ aus.\n\n
+comment2.params=tagInWoche
+comment2.target=Tag\ gibTag(int)
+comment2.text=\nLiefere\ den\ angebenen\ Tag\ der\ Woche.\n@param\ tagInWoche\ Nummer\ des\ Tages\ in\ der\ Woche\n(1..BELEGBARE_TAGE_PRO_WOCHE).\n@return\ den\ Tag\ zur\ gegebenen\ Nummer,\ oder\ null,\ wenn\ntagInWoche\ nicht\ im\ g\u00FCltigen\ Bereich\ liegt.\n\n
+comment3.target=int\ gibWochennummer()
+comment3.text=\nLiefere\ die\ Wochennummer\ dieser\ Woche.\n@return\ die\ Wochennummer\ (0-52)\ dieser\ Woche.\n\n
+numComments=4

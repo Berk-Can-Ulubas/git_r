@@ -1,9 +1,9 @@
 
 public class HalloWelt {
-
 	public static void main(String[] args) {
-		Sytem.out.println("Hallo Welt");
-
+	Text HelloW = new Text();
+	System.out.println(HelloW.giveHW());
+	
 	}
 
 }

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FlowLayoutBeispiel()
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ FlowLayoutBeispiel\n\n
+comment1.target=void\ fensterErzeugen()
+comment1.text=\nF\u00FCge\ f\u00FCnf\ Komponenten\ in\ einen\ Container\ ein,\ der\ seinen\ Inhalt\nmit\ einem\ FlowLayout\ verwaltet.\n\n
+numComments=2

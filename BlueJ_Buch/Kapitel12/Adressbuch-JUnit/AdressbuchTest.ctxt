@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AdressbuchTest()
+comment0.text=\nErstellen\ der\ Testdaten.\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSetzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\nWird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment10.target=void\ testNeuerKontaktFehler()
+comment10.text=\nL\u00F6se\ einen\ AssertionError\ aus,\ indem\ ein\ abgewandelter\ Kontakt\neingef\u00FCgt\ wird,\ statt\ den\ Kontakt\ mit\ aendereKontakt\ zu\ \u00E4ndern.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nGibt\ das\ Testger\u00FCst\ wieder\ frei.\n\nWird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment3.target=void\ testGibAnzahlEintraege()
+comment3.text=\nTeste,\ ob\ der\ Z\u00E4hler\ mit\ der\ Anzahl\ der\ Beispieleintr\u00E4ge\n\u00FCbereinstimmt.\nEntferne\ dann\ einen\ und\ pr\u00FCfe\ auf\ dekrementierten\ Z\u00E4hler.\nF\u00FCge\ dann\ einen\ ein\ und\ pr\u00FCfe\ auf\ inkrementierten\ Z\u00E4hler.\n\n
+comment4.target=void\ testGibKontakt()
+comment4.text=\nTeste,\ ob\ ein\ existierender\ Eintrag\ gefunden\ wird\ und\ ob\ ein\nnicht\ existierender\ nicht\ gefunden\ wird.\n\n
+comment5.target=void\ testSchluesselBekannt()
+comment5.text=\nTeste,\ ob\ Name\ und\ Telefonnummer\ eines\ eingetragenen\ Kontakts\nals\ Schl\u00FCssel\ registriert\ sind.\n\n
+comment6.target=void\ testNeuerKontakt()
+comment6.text=\nTeste,\ ob\ ein\ weiterer\ Kontakt\ eingef\u00FCgt\ werden\ kann.\n\n
+comment7.target=void\ testEntferneKontakt()
+comment7.text=\nTeste,\ ob\ wir\ einen\ weiteren\ Kontakt\ einf\u00FCgen\ und\ wieder\nentfernen\ k\u00F6nnen.\n\n
+comment8.target=void\ testAendereKontakt()
+comment8.text=\nTeste,\ ob\ die\ Details\ eines\ eingetragenen\ Kontakts\ ge\u00E4ndert\nwerden\ k\u00F6nnen.\n\n
+comment9.target=void\ testSuche()
+comment9.text=\nTeste,\ ob\ die\ Suche\ nach\ einem\ eingetragenen\ Kontakt\ erfolgreich\nist.\ Teste\ dann,\ ob\ die\ Suche\ nach\ einem\ nicht\ eingetragenen\nKontakt\ fehlschl\u00E4gt.\ F\u00FCge\ dann\ einen\ neuen\ Kontakt\ ein\ und\ teste,\nob\ eine\ Suche\ diesen\ findet.\n\n
+numComments=11

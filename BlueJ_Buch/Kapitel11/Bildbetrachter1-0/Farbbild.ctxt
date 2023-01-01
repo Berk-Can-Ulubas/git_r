@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=Farbbild(BufferedImage)
+comment0.text=\nErzeuge\ ein\ Farbbild\ als\ Kopie\ von\ einem\ BufferedImage.\n@param\ image\ das\ zu\ kopierende\ BufferedImage.\n\n
+comment1.params=breite\ hoehe
+comment1.target=Farbbild(int,\ int)
+comment1.text=\nErzeuge\ ein\ Farbbild\ mit\ der\ angegebenen\ Gr\u00F6\u00DFe\ mit\nundefiniertem\ Inhalt.\n@param\ breite\ die\ Breite\ des\ Bildes.\n@param\ hoehe\ die\ Hoehe\ des\ Bildes.\n\n
+comment2.params=x\ y\ col
+comment2.target=void\ setzePunktfarbe(int,\ int,\ Color)
+comment2.text=\nSetze\ den\ angegebenen\ Bildpunkt\ dieses\ Bildes\ auf\ die\nangegebene\ Farbe.\n@param\ x\ die\ x-Koordinate\ des\ Bildpunktes.\n@param\ y\ die\ y-Koordinate\ des\ Bildpunktes.\n@param\ col\ die\ Farbe\ des\ Bildpunktes.\n\n
+comment3.params=x\ y
+comment3.target=Color\ gibPunktfarbe(int,\ int)
+comment3.text=\nLiefere\ die\ Farbe\ des\ angegebenen\ Bildpunktes.\n@param\ x\ die\ x-Koordinate\ des\ Bildpunktes.\n@param\ y\ die\ y-Koordinate\ des\ Bildpunktes.\n@return\ die\ Farbe\ des\ Bildpunktes\ an\ der\ angegebenen\ Position.\n\n
+comment4.target=void\ abdunkeln()
+comment4.text=\nDunkle\ diese\ Bild\ etwas\ ab.\n\n
+comment5.target=void\ aufhellen()
+comment5.text=\nHelle\ diese\ Bild\ etwas\ auf.\n\n
+comment6.target=void\ schwellwerteAnwenden()
+comment6.text=\nWende\ eine\ dreistufige\ Schwellwertoperation\ an.\ Hei\u00DFt\:\ Zeichne\ndas\ Bild\ erneut\ mit\ lediglich\ drei\ Farbwerten\:\ wei\u00DF,\ grau\ und\ schwarz.\n\n
+numComments=7

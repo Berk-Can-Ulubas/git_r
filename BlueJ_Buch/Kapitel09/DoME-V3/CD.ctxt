@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=derTitel\ derKuenstler\ stuecke\ laenge
+comment0.target=CD(String,\ String,\ int,\ int)
+comment0.text=\nInitialisiere\ die\ CD.\n@param\ derTitel\ der\ Titel\ der\ CD.\n@param\ derKuenstler\ der\ Kuenstler\ dieser\ CD.\n@param\ stuecke\ die\ Anzahl\ der\ Stuecke\ auf\ der\ CD.\n@param\ laenge\ die\ Spielzeit\ der\ CD\n\n
+comment1.target=String\ gibKuenstler()
+comment1.text=\n@return\ den\ K\u00FCnstler\ dieser\ CD.\n\n
+comment2.target=int\ gibTitelanzahl()
+comment2.text=\n@return\ die\ Anzahl\ der\ Titel\ auf\ dieser\ CD.\n\n
+comment3.target=void\ ausgeben()
+comment3.text=\nGib\ Details\ \u00FCber\ diese\ CD\ auf\ der\ Konsole\ aus.\n\n
+numComments=4

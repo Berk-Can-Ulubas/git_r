@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=recheneinheit
+comment0.target=GrafischeSchnittstelle(Recheneinheit)
+comment0.text=\nErzeuge\ eine\ grafische\ Benutzungsschnittstelle\ f\u00FCr\ \neine\ Recheneinheit.\n@param\ recheneinheit\ die\ Recheneinheit\n\n
+comment1.params=sichtbar
+comment1.target=void\ setzeSichtbarkeit(boolean)
+comment1.text=\nSetze\ die\ Sichtbarkeit\ dieser\ grafischen\ Schnittstelle.\n@param\ sichtbar\ntrue,\ wenn\ die\ Schnittstelle\ sichtbar\ sein\ soll,\ false\ sonst.\n\n\n
+comment2.target=void\ fensterAufbauen()
+comment2.text=\nBaue\ das\ Fenster\ f\u00FCr\ diese\ grafische\ Oberfl\u00E4che\ auf.\n\n
+comment3.params=panel\ tastentext
+comment3.target=void\ tasteHinzufuegen(Container,\ String)
+comment3.text=\nF\u00FCge\ dem\ Tastenfeld\ eine\ Taste\ hinzu.\n@param\ panel\ der\ Panel,\ der\ die\ Taste\ aufnehmen\ soll\n@param\ tastentext\ der\ Text\ f\u00FCr\ die\ Taste\n\n
+comment4.params=event
+comment4.target=void\ actionPerformed(ActionEvent)
+comment4.text=\nEine\ Aktion\ an\ der\ Schnittstelle\ wurde\ ausgef\u00FChrt.\nFinde\ heraus,\ welche\ es\ war\ und\ behandle\ sie.\n@param\ event\ die\ Beschreibung\ der\ Aktion\n\n
+comment5.target=void\ auffrischen()
+comment5.text=\nFrische\ die\ grafische\ Anzeige\ mit\ dem\ aktuellen\ Wert\ der\nRecheneinheit\ auf.\n\n
+comment6.target=void\ infoZeigen()
+comment6.text=\nWechsle\ die\ Informationsausgabe\ in\ der\ Statuszeile\ zwischen\nder\ Autoren-\ und\ der\ Versionsinformation.\n\n
+numComments=7

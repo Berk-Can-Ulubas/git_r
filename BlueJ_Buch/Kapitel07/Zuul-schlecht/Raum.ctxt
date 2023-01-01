@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=beschreibung
+comment0.target=Raum(String)
+comment0.text=\nErzeuge\ einen\ Raum\ mit\ einer\ Beschreibung.\ Ein\ Raum\nhat\ anfangs\ keine\ Ausg\u00E4nge.\n@param\ beschreibung\ enth\u00E4lt\ eine\ Beschreibung\ in\ der\ Form\n"in\ einer\ K\u00FCche"\ oder\ "auf\ einem\ Sportplatz".\n\n
+comment1.params=norden\ osten\ sueden\ westen
+comment1.target=void\ setzeAusgaenge(Raum,\ Raum,\ Raum,\ Raum)
+comment1.text=\nDefiniere\ die\ Ausg\u00E4nge\ dieses\ Raums.\ Jede\ Richtung\nf\u00FChrt\ entweder\ in\ einen\ anderen\ Raum\ oder\ ist\ 'null'\n(kein\ Ausgang).\n@param\ norden\ Der\ Nordeingang.\n@param\ osten\ Der\ Osteingang.\n@param\ sueden\ Der\ S\u00FCdeingang.\n@param\ westen\ Der\ Westeingang.\n\n
+comment2.target=String\ gibBeschreibung()
+comment2.text=\n@return\ Die\ Beschreibung\ dieses\ Raums.\n\n
+numComments=3

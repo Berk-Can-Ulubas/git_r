@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Bildbetrachter()
+comment0.text=\nErzeuge\ einen\ Bildbetrachter\ und\ zeige\ seine\ GUI\ auf\ndem\ Bildschirm\ an.\n\n
+comment1.params=event
+comment1.target=void\ actionPerformed(ActionEvent)
+comment1.text=\nEmpfange\ die\ Benachrichtigung\ \u00FCber\ eine\ Aktion.\n@param\ event\ die\ Details\ der\ Aktion.\n\n
+comment2.target=void\ fensterErzeugen()
+comment2.text=\nErzeuge\ das\ Swing-Fenster\ samt\ Inhalt.\n\n
+comment3.params=fenster
+comment3.target=void\ menuezeileErzeugen(JFrame)
+comment3.text=\nDie\ Men\u00FCzeile\ des\ Hauptfensters\ erzeugen.\n@param\ fenster\ Das\ Fenster,\ in\ das\ die\ Men\u00FCzeile\ eingef\u00FCgt\ werden\ soll.\n\n
+numComments=4

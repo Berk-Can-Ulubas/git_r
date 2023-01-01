@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=absender\ empfaenger\ text
+comment0.target=Nachricht(String,\ String,\ String)
+comment0.text=\nErzeuge\ eine\ Nachricht\ vom\ gegebenen\ 'absender'\ an\ den\ gegebenen\n'empfaenger'\ mit\ dem\ gegebenen\ 'text'.\n@param\ absender\ der\ Absender\ dieser\ Nachricht\n@param\ empfaenger\ der\ gew\u00FCnschte\ Empf\u00E4nger\ dieser\ Nachricht.\n@param\ text\ der\ Text\ der\ Nachricht.\n\n
+comment1.target=String\ gibAbsender()
+comment1.text=\n@return\ den\ Absender\ dieser\ Nachricht.\n\n
+comment2.target=String\ gibEmpfaenger()
+comment2.text=\n@return\ den\ gew\u00FCnschten\ Empf\u00E4nger\ dieser\ Nachricht.\n\n
+comment3.target=String\ gibText()
+comment3.text=\n@return\ den\ Text\ dieser\ Nachricht.\n\n
+comment4.target=void\ ausgeben()
+comment4.text=\nGib\ Informationen\ \u00FCber\ diese\ Nachricht\ auf\ der\ Konsole\ aus.\n\n
+numComments=5

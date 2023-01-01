@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FeldStatistik()
+comment0.text=\nErzeuge\ ein\ FeldStatistik-Objekt.\n\n
+comment1.params=feld
+comment1.target=String\ gibBewohnerInfo(Feld)
+comment1.text=\nLiefere\ Informationen\ \u00FCber\ die\ Bewohner\ im\ Feld.\n@return\ Eine\ Beschreibung,\ welche\ Tiere\ das\nFeld\ bev\u00F6lkern.\n\n
+comment2.target=void\ zuruecksetzen()
+comment2.text=\nVerwerfe\ alle\ bisher\ gesammelten\ Daten;\ setze\ alle\ Z\u00E4hler\nauf\ Null\ zur\u00FCck.\n\n
+comment3.params=tierklasse
+comment3.target=void\ erhoeheZaehler(Class)
+comment3.text=\nErh\u00F6he\ den\ Z\u00E4hler\ f\u00FCr\ eine\ Tierklasse.\n@param\ tierklasse\ Klasse\ der\ Tierart,\ f\u00FCr\ die\ erh\u00F6ht\ werden\ soll.\n\n
+comment4.target=void\ zaehlungBeendet()
+comment4.text=\nSignalisiere,\ dass\ eine\ Tierz\u00E4hlung\ beendet\ ist.\n\n
+comment5.params=feld
+comment5.target=boolean\ istAktiv(Feld)
+comment5.text=\nStelle\ fest,\ ob\ die\ Simulation\ noch\ aktiv\ ist,\ also\nob\ sie\ weiterhin\ laufen\ sollte.\n@return\ true\ wenn\ noch\ mehr\ als\ eine\ Spezies\ lebt.\n\n
+comment6.params=feld
+comment6.target=void\ ermittleZaehlerstaende(Feld)
+comment6.text=\nErzeuge\ Z\u00E4hler\ f\u00FCr\ die\ Anzahl\ der\ F\u00FCchse\ und\ Hasen.\nDiese\ werden\ nicht\ st\u00E4ndig\ aktuell\ gehalten,\ w\u00E4hrend\nF\u00FCchse\ und\ Hasen\ in\ das\ Feld\ gesetzt\ werden,\ sondern\njeweils\ bei\ der\ Abfrage\ der\ Z\u00E4hlerst\u00E4nde\ berechnet.\n@param\ feld\ das\ Feld,\ f\u00FCr\ das\ die\ Statistik\ erstellt\nwerden\ soll.\n\n
+numComments=7

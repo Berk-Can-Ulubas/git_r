@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Position(int,\ int)
+comment0.text=\nModellierung\ einer\ Position\ in\ einer\ Stadt.\n@param\ x\ Die\ x-Koordinate.\ Muss\ gr\u00F6\u00DFer\ gleich\ Null\ sein.\n@param\ y\ Die\ y-Koordinate.\ Muss\ gr\u00F6\u00DFer\ gleich\ Null\ sein.\n@throws\ IllegalArgumentException\ bei\ negativen\ Koordinaten.\n\n
+comment1.params=ziel
+comment1.target=Position\ naechstePosition(Position)
+comment1.text=\nErzeuge\ die\ n\u00E4chste\ Position,\ die\ auf\ dem\ Weg\nzum\ Ziel\ besucht\ werden\ muss.\n@param\ ziel\ das\ Ziel.\n@return\ Eine\ Position\ in\ direkter\ Linie\ von\ndieser\ Position\ bis\ zum\ Ziel.\n\n
+comment2.params=ziel
+comment2.target=int\ schritteZu(Position)
+comment2.text=\nBerechne\ die\ Anzahl\ der\ Schritte,\ die\ von\ dieser\nPosition\ zum\ angegebenen\ Ziel\ zu\ machen\ sind.\n@param\ ziel\ das\ gew\u00FCnschte\ Ziel.\n@return\ Die\ Anzahl\ der\ Schritte\ zum\ Ziel.\n\n
+comment3.params=jener
+comment3.target=boolean\ equals(Object)
+comment3.text=\nVergleiche\ mit\ jener\ Position\ auf\ Datengleichheit.\n@return\ true\ wenn\ diese\ Position\ gleich\ zu\ jener\nist,\ false\ sonst.\n\n
+comment4.target=String\ toString()
+comment4.text=\n@return\ Eine\ Darstellung\ dieser\ Position.\n\n
+comment5.target=int\ gibX()
+comment5.text=\n@return\ die\ x-Koordinate.\n\n
+comment6.target=int\ gibY()
+comment6.text=\n@return\ die\ y-Koordinate.\n\n
+numComments=7

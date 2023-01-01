@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Kundendienstsystem()
+comment0.text=\nErzeuge\ ein\ Kundendienstsystem.\n\n
+comment1.target=void\ starten()
+comment1.text=\nStarte\ das\ System\ f\u00FCr\ den\ technischen\ Kundendienst.\nEs\ wird\ ein\ Begr\u00FC\u00DFungstext\ ausgegeben\ und\ anschlie\u00DFend\neine\ Dialog\ mit\ dem\ Benutzer\ gef\u00FChrt,\ bis\ der\ Benutzer\nden\ Dialog\ beendet.\n\n
+comment2.target=void\ willkommenstextAusgeben()
+comment2.text=\nGib\ einen\ Willkommenstext\ auf\ der\ Konsole\ aus.\n\n
+comment3.target=void\ abschiedstextAusgeben()
+comment3.text=\nGib\ einen\ Abschiedstext\ auf\ der\ Konsole\ aus.\n\n
+numComments=4

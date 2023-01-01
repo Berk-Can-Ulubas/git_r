@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SoundMaschine()
+comment0.text=\nErzeuge\ eine\ Sound-Maschine,\ die\ Sound-Dateien\ abspielen\ kann.\n\n
+comment1.params=soundDatei
+comment1.target=boolean\ start(File)
+comment1.text=\nLaden\ und\ abspielen\ einer\ angegebenen\ Sound-Datei.\ Wenn\ die\nDatei\ nicht\ in\ einem\ der\ akzeptierten\ Formate\ vorliegt,\ wird\nfalse\ zur\u00FCckgeliefert.\ Andernfalls\ wird\ der\ Sound\ abgespielt\nund\ es\ wird\ true\ zur\u00FCckgeliefert.\ Die\ Methode\ kehrt\ sofort\ zum\nAufrufer\ zur\u00FCck\ (nicht\ erst\ nachdem\ der\ Sound\ komplett\ abgespielt\nwurde).\n\n@param\ soundDatei\ \ Die\ zu\ ladende\ Datei.\n@return\ \ True,\ wenn\ die\ Sound-Datei\ geladen\ werden\ konnte,\ false\ sonst.\n\n
+comment2.target=void\ stop()
+comment2.text=\nStoppen\ des\ aktuell\ abgespielten\ Sound-Clips\ (wenn\ einer\ abgespielt\ wird).\nWenn\ kein\ Clip\ abgespielt\ wird,\ hat\ diese\ Methode\ keinen\ Effekt.\n\n
+comment3.target=void\ pause()
+comment3.text=\nPausieren\ des\ aktuell\ gespielten\ Sound-Clips.\ Wenn\ kein\ Clip\ abgespielt\nwird,\ hat\ ein\ Aufruf\ dieser\ Methode\ keinen\ Effekt.\n\n
+comment4.target=void\ weiter()
+comment4.text=\nWeiterspielen\ des\ aktuell\ pausierten\ Sound-Clips.\ Wenn\ kein\ Clip\ pausiert,\nbleibt\ diese\ Methode\ ohne\ Effekt.\ \n\n
+comment5.params=wert
+comment5.target=void\ positioniere(int)
+comment5.text=\nSetze\ die\ Abspielposition\ im\ aktuell\ abgespielten\ Sound-Clips\ auf\ den\ \ngegebenen\ 'wert',\ 'wert'\ gibt\ dabei\ einen\ Prozentwert\ (0\ bis\ 100)\ an.\nWenn\ aktuell\ kein\ Clip\ abgespielt\ wird,\ bleibt\ die\ Methode\ ohne\ Effekt.\n\n@param\ wert\ \ Die\ Zielposition\ in\ der\ Sound-Datei,\ als\ Prozentwert.\n\n
+comment6.params=pegel
+comment6.target=void\ setzeLautstaerke(int)
+comment6.text=\nSetze\ die\ Lautst\u00E4rke\ des\ aktuell\ gespielten\ Sound-Clips.\ Wenn\ kein\nClip\ gespielt\ wird,\ bleibt\ diese\ Methode\ ohne\ Effekt.\n\n@param\ pegel\ \ Der\ Lautst\u00E4rkepegel\ als\ ein\ Prozentwert\ (0..100).\n\n
+comment7.target=int\ gibClipLaenge()
+comment7.text=\nLiefere\ die\ L\u00E4nge\ des\ aktuell\ geladenen\ Sound-Clips\ (in\ Sekunden).\n\n@return\ \ Die\ L\u00E4nge\ des\ aktuellen\ Clips,\ oder\ 0,\ falls\nkein\ Clip\ abgespielt\ wird.\n\n
+comment8.params=datei
+comment8.target=boolean\ ladeSound(File)
+comment8.text=\nLade\ die\ angegebene\ Sound-Datei\ in\ diese\ Sound-Maschine.\n\n@return\ \ true,\ falls\ erfolgreich,\nfalse,\ falls\ die\ Datei\ nicht\ dekodierbar\ ist.\n\n
+numComments=9

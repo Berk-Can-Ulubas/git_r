@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=abholpunkt\ ziel
+comment0.target=Fahrgast(Position,\ Position)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Fahrgast.\n@param\ abholpunkt\ der\ Abholpunkt,\ darf\ nicht\ null\ sein.\n@param\ ziel\ die\ Zielposition,\ darf\ nicht\ null\ sein.\n@throws\ NullPointerException\ Wenn\ eine\ der\ Positionen\ null\ ist.\n\n
+comment1.target=Position\ gibAbholpunkt()
+comment1.text=\n@return\ den\ Abholpunkt.\n\n
+comment2.target=Position\ gibZiel()
+comment2.text=\n@return\ das\ Ziel.\n\n
+numComments=3

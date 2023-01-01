@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Recheneinheit()
+comment0.text=\nErzeuge\ eine\ Recheneinheit.\n\n
+comment1.target=int\ gibAnzeigewert()
+comment1.text=\n@return\ den\ Wert,\ der\ aktuell\ in\ der\ Anzeige\ gezeigt\nwerden\ soll.\n\n
+comment2.params=ziffer
+comment2.target=void\ zifferGetippt(int)
+comment2.text=\nEine\ Zifferntaste\ wurde\ getippt.\nEntweder\ einen\ neuen\ Operanden\ beginnen\ oder\ die\ getippte\nZiffer\ als\ letzte\ Stelle\ des\ aktuellen\ Operanden\ auffassen.\n@param\ ziffer\ die\ getippte\ Ziffer\n\n
+comment3.target=void\ plus()
+comment3.text=\nDie\ Plus-Taste\ wurde\ getippt.\n\n
+comment4.target=void\ minus()
+comment4.text=\nDie\ Minus-Taste\ wurde\ getippt.\n\n
+comment5.target=void\ gleich()
+comment5.text=\nDie\ Gleich-Taste\ wurde\ getippt.\n\n
+comment6.target=void\ clear()
+comment6.text=\nDie\ C-Taste\ (f\u00FCr\ 'Clear')\ wurde\ getippt.\n\n
+comment7.target=String\ gibTitel()
+comment7.text=\n@return\ den\ Titel\ dieser\ Recheneinheit.\n\n
+comment8.target=String\ gibAutor()
+comment8.text=\n@return\ den\ Autor\ dieser\ Recheneinheit.\ Die\ \nZeichenkette\ wird\ genauso,\ wie\ sie\ geliefert\ wird,\nausgegeben.\ Sie\ sollte\ also\ etwas\ enthalten\ wie\n"Erstellt\ von\ H.\ Simpson".\n\n
+comment9.target=String\ gibVersion()
+comment9.text=\n@return\ die\ Versionsnummer\ dieser\ Recheneinheit.\ Die\nZeichenkette\ wird\ genauso,\ wie\ sie\ geliefert\ wird,\nausgegeben.\ Sie\ sollte\ also\ etwas\ enthalten\ wie\n"Version\ 1.1".\n\n
+numComments=10

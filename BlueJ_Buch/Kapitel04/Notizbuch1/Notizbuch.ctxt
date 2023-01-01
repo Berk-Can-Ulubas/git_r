@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Notizbuch()
+comment0.text=\nF\u00FChre\ die\ Initialisierungen\ durch,\ die\ f\u00FCr\ ein\ Notizbuch\nnotwendig\ sind.\n\n
+comment1.params=notiz
+comment1.target=void\ speichereNotiz(String)
+comment1.text=\nSpeichere\ eine\ neue\ Notiz\ in\ diesem\ Notizbuch.\n@param\ notiz\ die\ zu\ speichernde\ Notiz.\n\n
+comment2.target=int\ anzahlNotizen()
+comment2.text=\n@return\ die\ Anzahl\ der\ Notizen\ in\ diesem\ Notizbuch.\n\n
+comment3.params=notiznummer
+comment3.target=void\ zeigeNotiz(int)
+comment3.text=\nZeige\ eine\ Notiz.\n@param\ notiznummer\ die\ Nummer\ der\ Notiz,\ die\ gezeigt\ werden\ soll.\n\n
+numComments=4

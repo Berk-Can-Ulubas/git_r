@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Datenbank()
+comment0.text=\nErzeuge\ eine\ leere\ Datenbank.\n\n
+comment1.params=dasMedium
+comment1.target=void\ erfasseMedium(Medium)
+comment1.text=\nErfasse\ das\ gegebene\ Medium\ in\ dieser\ Datenbank.\n@param\ dasMedium\ das\ zu\ erfassende\ Medium.\n\n
+comment2.target=void\ auflisten()
+comment2.text=\nGib\ eine\ Liste\ aller\ aktuell\ gespeicherten\ Medien\nauf\ der\ Konsole\ aus.\n\n
+comment3.params=dateiname
+comment3.target=void\ schreibeGrundlegendeInformationen(String)
+comment3.text=\nSchreibe\ die\ grundlegenden\ Informationen\ aller\ Medien\ in\ die\ gegebene\ Datei.\n@param\ Name\ der\ Datei,\ in\ der\ die\ Daten\ gespeichert\ werden.\n\n
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Taxiunternehmen()
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ TaxiUnternehmen\n\n
+comment1.params=fahrgast
+comment1.target=boolean\ taxirufFuer(Fahrgast)
+comment1.text=\nRufe\ ein\ Taxi\ f\u00FCr\ den\ angegebenen\ Fahrgast.\n@param\ fahrgast\ der\ Fahrgast,\ der\ gefahren\ werden\ m\u00F6chte.\n@return\ ob\ ein\ freies\ Fahrzeug\ verf\u00FCgbar\ ist.\n\n
+comment2.params=fahrzeug
+comment2.target=void\ ankunftAmAbholpunkt(Fahrzeug)
+comment2.text=\nEin\ Fahrzeug\ hat\ den\ Abholpunkt\ erreicht.\n@param\ fahrzeug\ das\ Fahrzeug\ am\ Abholpunkt.\n\n
+comment3.params=fahrzeug\ fahrgast
+comment3.target=void\ ankunftAmZiel(Fahrzeug,\ Fahrgast)
+comment3.text=\nEin\ Fahrzeug\ hat\ das\ Ziel\ eines\ Fahrgastes\ erreicht.\n@param\ fahrzeug\ das\ Fahrzeug\ am\ Zielpunkt.\n@param\ fahrgast\ der\ abgesetzte\ Fahrgast.\n\n
+comment4.target=Fahrzeug\ waehleFahrzeug()
+comment4.text=\nW\u00E4hle\ ein\ freies\ Fahrzeug,\ wenn\ verf\u00FCgbar.\n@return\ ein\ freies\ Fahrzeug\ oder\ null,\ wenn\ keines\ verf\u00FCgbar\ ist.\n\n
+numComments=5

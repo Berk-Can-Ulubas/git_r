@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Parser()
+comment1.target=String\ liefereBefehl()
+comment1.text=\nLies\ den\ n\u00E4chsten\ Benutzerbefehl\ ein.\nDer\ gelieferte\ Befehl\ ist\ g\u00FCltig.\n@return\ ein\ g\u00FCltiger\ Befehl.\n\n
+comment2.target=void\ zeigeBefehle()
+comment2.text=\nGib\ eine\ Liste\ der\ g\u00FCltigen\ Befehlsw\u00F6rter\nauf\ der\ Konsole\ aus.\n\n
+comment3.target=String\ zeileEinlesen()
+comment3.text=\n@return\ eine\ Zeile\ Text\ vom\ Benutzer.\n\n
+numComments=4

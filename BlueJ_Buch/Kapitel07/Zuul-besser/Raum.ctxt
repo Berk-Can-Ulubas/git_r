@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=beschreibung
+comment0.target=Raum(String)
+comment0.text=\nErzeuge\ einen\ Raum\ mit\ einer\ Beschreibung.\ Ein\ Raum\nhat\ anfangs\ keine\ Ausg\u00E4nge.\n@param\ beschreibung\ enth\u00E4lt\ eine\ Beschreibung\ in\ der\ Form\n"in\ einer\ K\u00FCche"\ oder\ "auf\ einem\ Sportplatz".\n\n
+comment1.params=richtung\ nachbar
+comment1.target=void\ setzeAusgang(String,\ Raum)
+comment1.text=\nDefiniere\ einen\ Ausgang\ f\u00FCr\ diesen\ Raum.\n@param\ richtung\ die\ Richtung,\ in\ der\ der\ Ausgang\ liegen\ soll\n@param\ nachbar\ der\ Raum,\ der\ \u00FCber\ diesen\ Ausgang\ erreicht\ wird\n\n
+comment2.target=String\ gibKurzbeschreibung()
+comment2.text=\n@return\ die\ kurze\ Beschreibung\ dieses\ Raums\ (die\ dem\ Konstruktor\n\u00FCbergeben\ wurde).\n\n
+comment3.target=String\ gibLangeBeschreibung()
+comment3.text=\nLiefere\ eine\ lange\ Beschreibung\ dieses\ Raums,\ in\ der\ Form\:\nSie\ sind\ in\ der\ K\u00FCche.\nAusg\u00E4nge\:\ nord\ west\n@return\ eine\ lange\ Beschreibung\ dieses\ Raumes.\n\n
+comment4.target=String\ gibAusgaengeAlsString()
+comment4.text=\nLiefere\ eine\ Beschreibung\ der\ Ausg\u00E4nge\ dieses\ Raumes,\nbeispielsweise\n"Ausg\u00E4nge\:\ north\ west".\n@return\ Eine\ Beschreibung\ der\ Ausg\u00E4nge\ dieses\ Raumes.\n\n
+comment5.params=richtung
+comment5.target=Raum\ gibAusgang(String)
+comment5.text=\nLiefere\ den\ Raum,\ den\ wir\ erreichen,\ wenn\ wir\ aus\ diesem\ Raum\nin\ die\ angegebene\ Richtung\ gehen.\ Liefere\ 'null',\ wenn\ in\ndieser\ Richtung\ kein\ Ausgang\ ist.\n@param\ richtung\ die\ Richtung,\ in\ die\ gegangen\ werden\ soll.\n@return\ den\ Raum\ in\ der\ angegebenen\ Richtung.\n\n
+numComments=6

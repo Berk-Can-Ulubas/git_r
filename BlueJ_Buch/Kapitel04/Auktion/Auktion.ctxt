@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Auktion()
+comment0.text=\nErzeuge\ eine\ neue\ Auktion.\n\n
+comment1.params=beschreibung
+comment1.target=void\ postenAnmelden(String)
+comment1.text=\nMelde\ einen\ Posten\ f\u00FCr\ diese\ Auktion\ an.\n@param\ beschreibung\ die\ Beschreibung\ des\ Postens.\n\n
+comment2.target=void\ zeigePostenliste()
+comment2.text=\nZeige\ die\ komplette\ Liste\ der\ Posten\ dieser\ Auktion.\n\n
+comment3.params=postennummer\ bieter\ betrag
+comment3.target=void\ bieteFuer(int,\ Person,\ long)
+comment3.text=\nBiete\ f\u00FCr\ einen\ Posten.\nEs\ erfolgt\ eine\ Ausgabe,\ ob\ das\ Gebot\ erfolgreich\ war\ oder\ nicht.\n@param\ postennummer\ Der\ Posten,\ f\u00FCr\ den\ geboten\ wird.\n@param\ bieter\ die\ Person,\ die\ bietet.\n@param\ betrag\ die\ H\u00F6he\ des\ Gebots.\n\n
+comment4.params=nummer
+comment4.target=Posten\ gibPosten(int)
+comment4.text=\nLiefere\ den\ Posten\ mit\ der\ angegebenen\ Nummer.\nLiefere\ 'null',\ wenn\ ein\ Posten\ mit\ dieser\ Nummer\nnicht\ existiert.\n@param\ nummer\ die\ Nummer\ des\ Postens,\ der\ geliefert\nwerden\ soll.\n\n
+numComments=5

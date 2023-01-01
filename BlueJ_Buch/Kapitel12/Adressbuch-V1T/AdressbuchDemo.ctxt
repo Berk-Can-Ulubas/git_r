@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AdressbuchDemo()
+comment0.text=\nLege\ ein\ Adressbuch\ mit\ Testdaten\ an.\n\nDas\ Adressbuch\ wird\ an\ eine\ textuelle\ Benutzungsschnittstelle\nweitergegeben,\ um\ die\ interaktive\ Manipulation\ zu\ erm\u00F6glichen.\n\n
+comment1.target=void\ zeigeSchnittstelle()
+comment1.text=\nErm\u00F6gliche\ dem\ Benutzer\ die\ Interaktion\ mit\ dem\ Adressbuch.\n\n
+comment2.target=Adressbuch\ gibAdressbuch()
+comment2.text=\n@return\ das\ Adressbuch\ mit\ den\ Testdaten.\n\n
+numComments=3

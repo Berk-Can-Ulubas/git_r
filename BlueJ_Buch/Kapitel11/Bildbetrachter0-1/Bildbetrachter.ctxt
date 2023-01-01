@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Bildbetrachter()
+comment0.text=\nErzeuge\ einen\ Bildbetrachter\ und\ zeige\ seine\ GUI\ auf\ndem\ Bildschirm\ an.\n\n
+comment1.target=void\ fensterErzeugen()
+comment1.text=\nErzeuge\ das\ Swing-Fenster\ samt\ Inhalt.\n\n
+numComments=2

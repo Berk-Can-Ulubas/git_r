@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FahrgastquelleTest()
+comment0.text=\nKonstruktor\ fuer\ die\ Test-Klasse\ FahrgastquelleTest\n\n
+comment1.target=void\ setUp()
+comment1.text=\nSetzt\ das\ Testger\u00FCst\ fuer\ den\ Test.\n\nWird\ vor\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment2.target=void\ tearDown()
+comment2.text=\nGibt\ das\ Testger\u00FCst\ wieder\ frei.\n\nWird\ nach\ jeder\ Testfall-Methode\ aufgerufen.\n\n
+comment3.target=void\ testAbholung()
+comment3.text=\nTeste\ die\ erfolgreiche\ Abholung\ eines\ Fahrgastes.\n\n
+numComments=4

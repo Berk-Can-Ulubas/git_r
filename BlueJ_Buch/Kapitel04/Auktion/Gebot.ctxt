@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=bieter\ hoehe
+comment0.target=Gebot(Person,\ long)
+comment0.text=\nErzeuge\ ein\ Gebot.\n@param\ bieter\ die\ Person,\ die\ das\ Gebot\ abgibt.\n@param\ hoehe\ die\ H\u00F6he\ des\ Gebots.\n\n
+comment1.target=Person\ gibBieter()
+comment1.text=\nLiefere\ den\ Bieter\ dieses\ Gebots.\n@return\ den\ Bieter.\n\n
+comment2.target=long\ gibHoehe()
+comment2.text=\nLiefere\ die\ H\u00F6he\ dieses\ Gebots.\n@return\ die\ H\u00F6he\ dieses\ Gebots.\n\n
+numComments=3

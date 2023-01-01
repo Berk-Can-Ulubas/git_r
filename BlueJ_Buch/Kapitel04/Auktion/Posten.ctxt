@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nummer\ beschreibung
+comment0.target=Posten(int,\ String)
+comment0.text=\nErzeuge\ einen\ Posten,\ mit\ Nummer\ und\ Beschreibung.\n@param\ nummer\ die\ Postennummer.\n@param\ beschreibung\ eine\ Beschreibung\ dieses\ Postens.\n\n
+comment1.params=gebot
+comment1.target=boolean\ hoeheresGebot(Gebot)
+comment1.text=\nEin\ Versuch,\ f\u00FCr\ diesen\ Posten\ zu\ bieten.\ Ein\ erfolgreiches\nGebot\ muss\ h\u00F6her\ sein\ als\ alle\ bisherigen\ Gebote.\n@param\ gebot\ ein\ neues\ Gebot.\n@return\ true\ falls\ erfolgreich,\ false\ sonst.\n\n
+comment2.target=String\ toString()
+comment2.text=\n@return\ Eine\ String-Darstellung\ der\ Details\ dieses\ Postens.\n\n
+comment3.target=int\ gibNummer()
+comment3.text=\n@return\ die\ Nummer\ dieses\ Postens.\n\n
+comment4.target=String\ gibBeschreibung()
+comment4.text=\n@return\ die\ Beschreibung\ dieses\ Postens.\n\n
+comment5.target=Gebot\ gibHoechstesGebot()
+comment5.text=\nLiefere\ das\ h\u00F6chste\ Gebot\ f\u00FCr\ diesen\ Posten.\nDas\ Ergebnis\ kann\ 'null'\ sein,\ wenn\ noch\ kein\nGebot\ abgegeben\ wurde.\n@return\ das\ h\u00F6chste\ Gebot\n\n
+numComments=6

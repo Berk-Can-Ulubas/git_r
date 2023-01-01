@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=server\ benutzer
+comment0.target=MailClient(MailServer,\ String)
+comment0.text=\nErzeuge\ einen\ MailClient\ f\u00FCr\ den\ angegebenen\ Benutzer\nund\ verbinde\ ihn\ mit\ dem\ gegebenen\ Server.\n@param\ server\ der\ MailServer\ f\u00FCr\ diesen\ Client\n@param\ benutzer\ der\ Name\ des\ Benutzers\ dieses\ MailClients.\n\n
+comment1.target=Nachricht\ gibNaechsteNachricht()
+comment1.text=\nLiefere\ die\ n\u00E4chste\ Nachricht\ (falls\ vorhanden)\nf\u00FCr\ den\ Benutzer\ dieses\ Clients.\n\n
+comment2.target=void\ naechsteNachrichtAusgeben()
+comment2.text=\nGib\ die\ n\u00E4chste\ Nachricht\ (falls\ vorhanden)\ f\u00FCr\ den\nBenutzer\ dieses\ Clients\ auf\ der\ Konsole\ aus.\n\n
+comment3.params=empfaenger\ text
+comment3.target=void\ sendeNachricht(String,\ String)
+comment3.text=\nSende\ den\ gegebenen\ Nachrichtentext\ an\ den\ angebenen\nEmpf\u00E4nger\ \u00FCber\ den\ zugeordneten\ Mail-Server.\n@param\ empfaenger\ der\ gew\u00FCnschte\ Empf\u00E4nger\n@param\ text\ der\ Text\ der\ Nachricht\n\n
+numComments=4

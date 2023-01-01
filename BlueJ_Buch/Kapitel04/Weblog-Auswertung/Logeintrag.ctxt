@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=logzeile
+comment0.target=Logeintrag(String)
+comment0.text=\nZerteile\ eine\ Logzeile\ so,\ dass\ die\ einzelnen\nWerte\ verf\u00FCgbar\ werden.\n@param\ logzeile\ eine\ einzelne\ Zeile\ aus\ der\ Logdatei.\n\n
+comment1.target=int\ gibStunde()
+comment1.text=\n@return\ den\ Stunden-Wert\ eines\ Logeintrags.\n\n
+comment2.target=int\ gibMinute()
+comment2.text=\n@return\ den\ Minuten-Wert\ eines\ Logeintrags.\n\n
+comment3.target=String\ toString()
+comment3.text=\nErzeuge\ eine\ Repr\u00E4sentation\ als\ String.\nDas\ Ergebnis\ ist\ nicht\ notwendigerweise\nidentisch\ mit\ der\ urspr\u00FCnglichen\ Logzeile.\n\n@return\ eine\ Zeichenkette,\ die\ die\ Werte\ \nder\ Logzeile\ enth\u00E4lt.\n\n
+comment4.params=andererEintrag
+comment4.target=int\ compareTo(Logeintrag)
+comment4.text=\nVergleiche\ die\ Datums-\ und\ Zeitwerte\ dieses\ Eintrags\nmit\ denen\ eines\ anderen.\n@param\ andererEintrag\ der\ andere\ Eintrag,\ mit\ dem\ verglichen\ werden\ soll.\n@return\ Einen\ negativen\ Wert,\ wenn\ dieser\ Eintrag\ einen\ fr\u00FCheren\nZeitpunkt\ repr\u00E4sentiert.\ Einen\ positiven\ Wert,\ wenn\ndieser\ Eintrag\ einen\ sp\u00E4teren\ Zeitpunkt\ repr\u00E4sentiert.\nNull,\ wenn\ beide\ Eintr\u00E4ge\ den\ gleichen\ Zeitpunkt\nrepr\u00E4sentieren.\n\n
+numComments=5

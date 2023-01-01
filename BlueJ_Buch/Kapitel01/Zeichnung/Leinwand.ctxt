@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Leinwand\ gibLeinwand()
+comment0.text=\nFabrikmethode,\ die\ eine\ Referenz\ auf\ das\ einzige\ Exemplar\ dieser\ Klasse\nzur\u00FCckliefert.\ Wenn\ es\ von\ einer\ Klasse\ nur\ genau\ ein\ Exemplar\ gibt,\ wird\ndieses\ als\ 'Singleton'\ bezeichnet.\n\n
+comment1.params=titel\ breite\ hoehe\ grundfarbe
+comment1.target=Leinwand(String,\ int,\ int,\ Color)
+comment1.text=\nErzeuge\ eine\ Leinwand.\n\n@param\ titel\nTitel,\ der\ im\ Rahmen\ der\ Leinwand\ angezeigt\ wird\n@param\ breite\ndie\ gew\u00FCnschte\ Breite\ der\ Leinwand\n@param\ hoehe\ndie\ gew\u00FCnschte\ H\u00F6he\ der\ Leinwand\n@param\ grundfarbe\ndie\ Hintergrundfarbe\ der\ Leinwand\n\n
+comment2.params=sichtbar
+comment2.target=void\ setzeSichtbarkeit(boolean)
+comment2.text=\nSetze,\ ob\ diese\ Leinwand\ sichtbar\ sein\ soll\ oder\ nicht.\ Wenn\ die\ Leinwand\nsichtbar\ gemacht\ wird,\ wird\ ihr\ Fenster\ in\ den\ Vordergrund\ geholt.\ Diese\nOperation\ kann\ auch\ benutzt\ werden,\ um\ ein\ bereits\ sichtbares\nLeinwandfenster\ in\ den\ Vordergrund\ (vor\ andere\ Fenster)\ zu\ holen.\n\n@param\ sichtbar\nboolean\ f\u00FCr\ die\ gew\u00FCnschte\ Sichtbarkeit\:\ true\ f\u00FCr\ sichtbar,\nfalse\ f\u00FCr\ nicht\ sichtbar.\n\n
+comment3.params=figur\ farbe\ shape
+comment3.target=void\ zeichne(Object,\ String,\ Shape)
+comment3.text=\nZeichne\ f\u00FCr\ das\ gegebene\ Figur-Objekt\ eine\ Java-Figur\ (einen\ Shape)\ auf\ndie\ Leinwand.\n\n@param\ figur\ndas\ Figur-Objekt,\ f\u00FCr\ das\ ein\ Shape\ gezeichnet\ werden\ soll\n@param\ farbe\ndie\ Farbe\ der\ Figur\n@param\ shape\nein\ Objekt\ der\ Klasse\ Shape,\ das\ tats\u00E4chlich\ gezeichnet\ wird\n\n
+comment4.params=figur
+comment4.target=void\ entferne(Object)
+comment4.text=\nEntferne\ die\ gegebene\ Figur\ von\ der\ Leinwand.\n\n@param\ figur\ndie\ Figur,\ deren\ Shape\ entfernt\ werden\ soll\n\n
+comment5.params=farbname
+comment5.target=void\ setzeZeichenfarbe(String)
+comment5.text=\nSetze\ die\ Zeichenfarbe\ der\ Leinwand.\n\n@param\ farbname\nder\ Name\ der\ neuen\ Zeichenfarbe.\n\n
+comment6.params=millisekunden
+comment6.target=void\ warte(int)
+comment6.text=\nWarte\ f\u00FCr\ die\ angegebenen\ Millisekunden.\ Mit\ dieser\ Operation\ wird\ eine\nVerz\u00F6gerung\ definiert,\ die\ f\u00FCr\ animierte\ Zeichnungen\ benutzt\ werden\ kann.\n\n@param\ millisekunden\ndie\ zu\ wartenden\ Millisekunden\n\n
+comment7.target=void\ erneutZeichnen()
+comment7.text=\nZeichne\ erneut\ alle\ Figuren\ auf\ der\ Leinwand.\n\n
+comment8.target=void\ loeschen()
+comment8.text=\nL\u00F6sche\ die\ gesamte\ Leinwand.\n\n
+numComments=9

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=breite\ hoehe
+comment0.target=Stadt(int,\ int)
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Stadt\n@param\ breite\ die\ Breite\ der\ Stadt.\n@param\ hoehe\ die\ H\u00F6he\ der\ Stadt.\n\n
+comment1.target=Stadt()
+comment1.text=\nErzeuge\ eine\ Stadt\ mit\ einer\ Standardgr\u00F6\u00DFe.\n\n
+comment2.target=Iterator\ gibGegenstaende()
+comment2.text=\n@return\ einen\ Iterator\ \u00FCber\ die\ Gegenst\u00E4nde.\n\n
+comment3.params=gegenstand
+comment3.target=void\ gegenstandEinfuegen(Object)
+comment3.text=\nF\u00FCge\ den\ gegebenen\ Gegenstand\ in\ die\ Stadt\ ein.\n@param\ gegenstand\ der\ einzuf\u00FCgende\ Gegenstand.\n\n
+comment4.params=gegenstand
+comment4.target=void\ gegenstandEntfernen(Object)
+comment4.text=\nEntferne\ den\ gegebenen\ Gegenstand\ aus\ der\ Stadt.\n@param\ gegenstand\ der\ zu\ entfernende\ Gegenstand.\n\n
+comment5.target=String\ toString()
+comment5.text=\n@return\ eine\ String-Darstellung\ der\ Stadt.\n\n
+comment6.target=int\ gibBreite()
+comment6.text=\n@return\ die\ Breite\ dieser\ Stadt.\n\n
+comment7.target=int\ gibHoehe()
+comment7.text=\n@return\ die\ H\u00F6he\ dieser\ Stadt.\n\n
+numComments=8

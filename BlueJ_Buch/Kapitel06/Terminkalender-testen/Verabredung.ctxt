@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=beschreibung\ dauer
+comment0.target=Verabredung(String,\ int)
+comment0.text=\nKonstruktor\ f\u00FCr\ einen\ Verabredung\ mit\ einer\ Dauer.\n@param\ beschreibung\ die\ Beschreibung\ der\ Verabredung.\n@param\ dauer\ die\ L\u00E4nge\ der\ Verabredung\ in\ Stunden.\n\n
+comment1.target=String\ gibBeschreibung()
+comment1.text=\nLiefere\ die\ Beschreibung\ dieser\ Verabredung.\n@return\ die\ Beschreibung\ dieser\ Verabredung.\n\n
+comment2.target=int\ gibDauer()
+comment2.text=\nLiefere\ die\ Dauer\ dieser\ Verabredung\ (in\ Stunden).\n@return\ die\ Dauer\ dieser\ Verabredung\ (in\ Stunden).\n\n
+numComments=3

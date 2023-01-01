@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=buch
+comment0.target=AdressbuchGUI(Adressbuch)
+comment0.text=\nErzeuge\ den\ Frame\ mit\ seinen\ Panels.\n@param\ buch\ das\ Adressbuch,\ das\ manipuliert\ werden\ soll.\n\n
+comment1.target=void\ showWindow()
+comment1.text=\nDas\ Fenster\ anzeigen,\ nachdem\ es\ geschlossen\ wurde.\n\n
+comment2.target=Dimension\ getPreferredSize()
+comment2.text=\n@return\ die\ bevorzugte\ Gr\u00F6\u00DFe\ f\u00FCr\ diesen\ Frame.\n\n
+comment3.target=Container\ eingabePanelErstellen()
+comment3.text=\nStelle\ den\ Panel\ f\u00FCr\ die\ Dateneingabe\ zusammen.\n@return\ den\ zusammengestellten\ Panel.\n\n
+comment4.target=Container\ suchenPanelErstellen()
+comment4.text=\nStelle\ den\ Panel\ f\u00FCr\ das\ Suchen\ von\ Eintr\u00E4gen\nzusammen.\n@return\ den\ zusammengestellten\ Panel.\n\n
+comment5.target=Container\ auflistenPanelErstellen()
+comment5.text=\nStelle\ den\ Panel\ zum\ Auflisten\ der\ Eintr\u00E4ge\nzusammen.\n@return\ den\ zusammengestellten\ Panel.\n\n
+numComments=6

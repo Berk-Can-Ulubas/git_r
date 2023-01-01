@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Befehlswoerter()
+comment0.text=\nKonstruktor\ -\ initialisiere\ die\ Befehlsw\u00F6rter.\n\n
+comment1.params=wort
+comment1.target=Befehlswort\ gibBefehlswort(String)
+comment1.text=\nFinde\ das\ Befehlswort,\ das\ mit\ einem\ Befehls-String\ verkn\u00FCpft\ ist.\n@param\ befehlswort\ das\ nachzuschlagende\ Wort.\n@return\ Das\ zugeh\u00F6rige\ Befehlswort\ zum\ dem\ Wort\ oder\ UNKNOWN,\nwenn\ das\ Wort\ kein\ g\u00FCltiges\ Befehlswort\ ist.\n\n
+comment2.params=eingabe
+comment2.target=boolean\ istBefehl(String)
+comment2.text=\nPr\u00FCfe,\ ob\ eine\ gegebene\ Zeichenkette\ ein\ g\u00FCltiger\nBefehl\ ist.\n@return\ 'true',\ wenn\ die\ gegebene\ Zeichenkette\ ein\ g\u00FCltiger\nBefehl\ ist,\ 'false'\ sonst.\n\n
+comment3.target=void\ alleAusgeben()
+comment3.text=\nGib\ alle\ g\u00FCltigen\ Befehlsw\u00F6rter\ auf\ die\ Konsole\ aus.\n\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Zufallssteuerung()
+comment0.text=\nKonstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Zufallssteuerung\n\n
+comment1.target=Random\ gibZufallsgenerator()
+comment1.text=\nLiefert\ einen\ Zufallsgenerator.\n@return\ Ein\ Random-Objekt.\n\n
+comment2.target=void\ zuruecksetzen()
+comment2.text=\nSetzt\ die\ Zufallssteuerung\ zurueck.\nHat\ keinen\ Effekt,\ wenn\ f\u00FCr\ die\ Zufallssteuerung\ kein\ \ngemeinsam\ genutzer\ Zufallsgenerator\ verwendet\ wird.\n\n
+numComments=3

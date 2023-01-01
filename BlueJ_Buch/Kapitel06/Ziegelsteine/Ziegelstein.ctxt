@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=hoehe\ breite\ tiefe
+comment0.target=Ziegelstein(int,\ int,\ int)
+comment0.text=\nErzeuge\ einen\ Ziegelstein.\ Die\ Parameter\ geben\ die\ \nKantenl\u00E4ngen\ in\ Zentimetern\ an.\n@param\ hoehe\ die\ H\u00F6he\ des\ Ziegelsteins\n@param\ breite\ die\ Breite\ des\ Ziegelsteins\n@param\ tiefe\ die\ Tiefe\ des\ Ziegelsteins\n\n
+comment1.target=double\ gibOberflaeche()
+comment1.text=\n@return\ die\ Gr\u00F6\u00DFe\ der\ Oberfl\u00E4che\ dieses\ Ziegelsteins\nin\ Quadratzentimetern.\n\n
+comment2.target=double\ gibGewicht()
+comment2.text=\n@return\ das\ Gewicht\ dieses\ Ziegelsteins\ in\ kg.\n\n
+comment3.target=int\ gibVolumen()
+comment3.text=\n@return\ das\ Volumen\ dieses\ Ziegelsteins\ in\nKubikzentimetern.\n\n
+comment4.target=double\ gibHoehe()
+comment4.text=\n@return\ die\ H\u00F6he\ dieses\ Ziegelsteins\ in\ Zentimetern.\n\n
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=LogdateiLeser()
+comment0.text=\nErzeuge\ einen\ LogdateiLeser,\ der\ Eintr\u00E4ge\ aus\ einer\ \nLogdatei\ mit\ dem\ voreingestellten\ Namen\ "weblog.txt"\nliest.\n\n
+comment1.params=dateiname
+comment1.target=LogdateiLeser(String)
+comment1.text=\nErzeuge\ einen\ LogdateiLeser,\ der\ Eintr\u00E4ge\ aus\ einer\nDatei\ mit\ dem\ angegebenen\ Namen\ liest.\n@param\ dateiname\ der\ Name\ der\ Logdatei\n\n
+comment2.target=boolean\ hatWeitereEintraege()
+comment2.text=\nHat\ dieser\ Leser\ weitere\ Eintr\u00E4ge\ zu\ liefern?\n@return\ true\ falls\ weitere\ Daten\ geliefert\ werden\ k\u00F6nnen,\n'false'\ sonst.\n\n
+comment3.target=Logeintrag\ naechsterEintrag()
+comment3.text=\nLiefere\ den\ n\u00E4chsten\ Eintrag\ aus\ der\ Logdatei\nin\ Form\ eines\ Logeintrag-Objektes.\n\n@return\ ein\ Exemplar\ von\ Logeintrag,\ das\ die\ Daten\nder\ n\u00E4chsten\ Zeile\ enth\u00E4lt.\n\n
+comment4.target=String\ gibFormat()
+comment4.text=\n@return\ einen\ String,\ der\ das\ Format\ .\n\n
+comment5.target=void\ zuruecksetzen()
+comment5.text=\nSetze\ den\ logischen\ Lesezeiger\ wieder\ an\ den\ Anfang\nder\ Daten\ dieses\ LogdateiLesers.\ Die\ Daten\ k\u00F6nnen\ auf\ndiese\ Weise\ mehrfach\ ausgelesen\ werden.\n\n
+comment6.target=void\ datenAusgeben()
+comment6.text=\nGib\ die\ Daten\ dieses\ Lesers\ auf\ die\ Konsole\ aus.\n\n
+comment7.params=daten
+comment7.target=void\ erzeugeSimulationsdaten(ArrayList<Logeintrag>)
+comment7.text=\nLiefere\ einen\ Satz\ von\ Simulationsdaten.\nNebenbemerkung\:\ Um\ die\ Erzeugung\ hier\ zu\ vereinfachen,\nwerden\ keine\ Tage\ \u00FCber\ den\ 28sten\ eines\ Monats\ hinaus\ngeneriert.\n@param\ daten\ 'Beh\u00E4lter',\ in\ dem\ die\ erzeugten\ Daten\ \nabgelegt\ werden\ sollen.\n\n
+numComments=8

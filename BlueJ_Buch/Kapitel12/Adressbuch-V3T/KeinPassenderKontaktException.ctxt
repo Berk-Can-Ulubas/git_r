@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=schluessel
+comment0.target=KeinPassenderKontaktException(String)
+comment0.text=\nSpeichere\ Fehlerinformationen.\n@param\ schluessel\ der\ Schl\u00FCssel\ ohne\ passenden\ Kontakt.\n\n
+comment1.target=String\ gibSchluessel()
+comment1.text=\n@return\ den\ fehlerhaften\ Schl\u00FCssel.\n\n
+comment2.target=String\ toString()
+comment2.text=\n@return\ einen\ Diagnosetext\ mit\ dem\ fehlerhaften\ Schl\u00FCssel.\n\n
+numComments=3
