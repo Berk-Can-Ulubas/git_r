@@ -23,6 +23,7 @@ class Ampel
     public Ampel()
     {
         _gruenLeuchtet = true;
+        _gelb
     }
     
     /**
