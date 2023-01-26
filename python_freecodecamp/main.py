@@ -2,7 +2,7 @@ import random
 
 def get_choices():
     player_choice = input("Enter a choice (rock, paper, scissors: ")
-    options = ["rock", "paper", "scissor"]
+    options = ["rock", "paper", "scissors"]
     computer_choice = random.choice(options)
     choices = {"player": player_choice, "computer": computer_choice}
     return choices
@@ -12,12 +12,27 @@ def check_win(player, computer):
     print(f"Computer chose {computer}.")
     if player == computer:
         return "its a tie!"
+    elif player == "rock":
+        if computer == "sissors":
+            return "Rock smashes scissors! You win!"
+        else:
+            return "Paper covers Rock! You lose."
+    elif player == "paper":
+        if computer == "rock":
+            return "Paper covers Rock! You win!"
+        else:
+            return "Sissors cuts Paper! You lose."
+    elif player == "scissors":
+        if computer == "paper":
+            return "Sissors cuts Paper! You win!"
+        else:
+            return "Rock smashes Scissors! You lose."
 
 
+choices = get_choices()
 
-check_win("rock", "rock")
 
-#dict = {"name": "beau", "color": choices
+#dict = {"name": "beau", "color": choices}
 
 #choices = get_choices()
 #print(choices)
@@ -37,3 +52,14 @@ check_win("rock", "rock")
 #b = 5 
 #if a < b:
 #    print("yes")
+'''
+age = 20
+if age >= 18:
+    print("You are an abdult.")
+elif age >12: 
+    print("You are a teenager.")
+elif age > 1:
+    print("You are a child.")
+else:
+    print("You are a baby.")
+'''
