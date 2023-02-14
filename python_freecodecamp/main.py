@@ -1,11 +1,13 @@
 import random
 
+
 def get_choices():
     player_choice = input("Enter a choice (rock, paper, scissors): ")
     options = ["rock", "paper", "scissors"]
     computer_choice = random.choice(options)
     choices = {"player": player_choice, "computer": computer_choice}
     return choices
+
 
 def check_win(player, computer):
     print(f"You chose {player}.")
@@ -25,7 +27,7 @@ def check_win(player, computer):
     elif player == "scissors":
         if computer == "paper":
             return "Sissors cuts Paper! You win!"
-        else:
+            else:
             return "Rock smashes Scissors! You lose."
 
 
@@ -33,25 +35,25 @@ choices = get_choices()
 result = check_win(choices["player"], choices["computer"])
 print(result)
 
-#dict = {"name": "beau", "color": choices}
+# dict = {"name": "beau", "color": choices}
 
-#choices = get_choices()
-#print(choices)
+# choices = get_choices()
+# print(choices)
 
 
-#def greeting():
+# def greeting():
 #    return "Hi"
 
-#response = greeting()
-#print(response)
+# response = greeting()
+# print(response)
 
 
-#food = ["pizza", "carrots", "eggs"]
-#dinner = random.choice(food)
+# food = ["pizza", "carrots", "eggs"]
+# dinner = random.choice(food)
 
-#a = 3
-#b = 5 
-#if a < b:
+# a = 3
+# b = 5
+# if a < b:
 #    print("yes")
 '''
 age = 20
